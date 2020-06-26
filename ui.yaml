@@ -1,0 +1,29 @@
+# Labels
+
+label_select:
+  nl: Selecteer
+  en: Select
+label_read_more:
+  nl: Lees meer…
+  en: Read more…
+label_step:
+  nl: Stap
+  en: Step
+label_log_out:
+  nl: Log uit
+  en: Log out
+label_my_profile:
+  nl: Mijn profiel
+  en: My profile
+label_change_password:
+  nl: Wijzig wachtwoord
+  en: Change password
+label_preferences:
+  nl: Voorkeuren
+  en: Preferences
+label_replace_photo:
+  nl: Vervang foto
+  en: Replace photo
+label_upload_photo:
+  nl: Laad een foto op
+  en: Upload a photo
