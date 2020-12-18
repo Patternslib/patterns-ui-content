@@ -1,4 +1,101 @@
-# Labels
+# Label
+
+label_job_title:
+  nl: Functie
+  en: Job title
+  de: Berufsbezeichnung
+label_department:
+  nl: Afdeling
+  en: Department
+  de: Abteilung
+label_primary_location: 
+  nl: Hoofdlocatie
+  en: Primary location
+  de: Hauptstandort
+label_time_zone:
+  nl: Tijdzone
+  en: Time zone
+  de: Zeitzone
+label_telephone_number:
+  nl: Telefoonnummer
+  en: Telephone number
+  de: Telefonnummer
+label_telephone_number_mobile:
+  nl: Mobiel telefoonnummer
+  en: Telephone number mobile
+  de: Telefonnummer Handy
+label_email:
+  nl: E-mail
+  en: E-mail
+  de: E-mail
+label_title:
+  nl: Titel
+  en: Title
+  de: Titel
+label_biography:
+  nl: Biografie
+  en: Biography
+  de: Biografie  
+label_day:
+  nl: Dag
+  en: Day
+  de: Tag  
+label_year:
+  nl: Jaar
+  en: Year
+  de: Jahr  
+label_january:
+  nl: Januari
+  en: January
+  de: Januar  
+label_februari:
+  nl: Februari
+  en: February  
+  de: Februar
+label_march:
+  nl: Maart
+  en: March  
+  de: März
+label_april:
+  nl: April
+  en: April
+  de: April  
+label_may:
+  nl: Mei
+  en: May
+  de: Mai  
+label_june:
+  nl: Juni
+  en: June  
+  de: Juni
+label_juli:
+  nl: Juli
+  en: July  
+  de: Juli
+label_august:
+  nl: Augustus
+  en: August  
+  de: August
+label_september:
+  nl: September
+  en: September
+  de: Septembers
+label_october:
+  nl: Oktober
+  en: October  
+  de: Oktober
+label_november:
+  nl: November
+  en: November  
+  de: November
+label_december:
+  nl: December
+  en: December
+  de: Dezember 
+label_birthdate:
+  nl: Geboortedatum
+  en: Birthdate
+  de: Geburtstag
 
 label_select:
   nl: Selecteer
