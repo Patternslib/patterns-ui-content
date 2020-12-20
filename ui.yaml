@@ -1,5 +1,9 @@
 # Label
 
+label_save:
+  nl: Sla op
+  en: Save
+  de: Speichern
 label_job_title:
   nl: Functie
   en: Job title
