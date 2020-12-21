@@ -1,5 +1,17 @@
 # Label
 
+label_users:
+  nl: Gebruikers
+  en: Users
+  de: Benutzers
+label_account: 
+  nl: Account
+  en: Account
+  de: Konto
+label_settings:
+  nl: Instellingen
+  en: Settings
+  de: Einstellungen
 label_save:
   nl: Sla op
   en: Save
