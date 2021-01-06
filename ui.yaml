@@ -1,5 +1,17 @@
 # Label
 
+label_maintenance:
+  nl: Onderhoud
+  en: Maintenance
+  de: Maintenance
+label_visibility: 
+  nl: Zichtbaarheid
+  en: Visibility
+  de: Visibility
+label_contributions:
+  nl: Bijdragen
+  de: Contributions
+  en: Contributions
 label_users:
   nl: Gebruikers
   en: Users
@@ -48,6 +60,10 @@ label_title:
   nl: Titel
   en: Title
   de: Titel
+label_description:
+  nl: Beschrijving
+  en: Description
+  de: Description
 label_biography:
   nl: Biografie
   en: Biography
