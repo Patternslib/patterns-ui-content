@@ -1,5 +1,69 @@
 # Label
 
+label_never:
+  nl: Nooit
+  en: Never
+  de: Never
+label_immediately: 
+  nl: Onmiddelijk
+  en: Immediately
+  de: Immediately
+label_daily: 
+  nl: Dagelijks
+  en: Daily
+  de: Daily
+label_weekly:
+  nl: Wekelijks
+  en: Weekly
+  de: Weekly
+label_monthly: 
+  nl: Maandelijks
+  en: Monthly
+  de: Monthly
+label_contrast:
+  nl: Contrast
+  en: Contrast
+  de: Contrast
+label_font_size:
+  nl: Lettertypegrootte
+  en: Font size
+  de: Font size
+label_dashboard:
+  nl: Dashboard
+  en: Dashboard
+  de: Dashboard
+label_accessibility:
+  nl: Toegankelijkheid
+  en: Accessibility
+  de: Accessibility
+label_no_notification:
+  nl: Geen berichtgeving
+  en: No notification
+  de: No notification
+label_notifications:
+  nl: Berichtgeving
+  en: Notifications
+  de: Notifications
+label_language:
+  nl: Taal
+  en: Language
+  de: Sprache
+label_system_language:
+  nl: Systeemtaal
+  en: System language
+  de: System language
+label_german_native:
+  nl: Deutsch
+  en: Deutsch
+  de: Deutsch
+label_dutch_native:
+  nl: Nederlands
+  en: Nederlands
+  de: Nederlands
+label_english_native:
+  nl: English
+  en: English
+  de: English
 label_maintenance:
   nl: Onderhoud
   en: Maintenance
