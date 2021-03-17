@@ -205,6 +205,10 @@ label_birthdate:
   en: Birthdate
   de: Geburtstag
 
+label_bookmarks:
+  nl: Bladwijzers
+  en: Bookmarks
+  en: Lesezeichen
 label_select:
   nl: Selecteer
   en: Select
