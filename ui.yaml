@@ -137,6 +137,7 @@ label_email:
   nl: E-mail
   en: E-mail
   de: E-mail
+  fr: Courriel
 label_title:
   nl: Titel
   en: Title
@@ -161,7 +162,7 @@ label_january:
   nl: Januari
   en: January
   de: Januar  
-label_februari:
+label_february:
   nl: Februari
   en: February  
   de: Februar
@@ -181,7 +182,7 @@ label_june:
   nl: Juni
   en: June  
   de: Juni
-label_juli:
+label_july:
   nl: Juli
   en: July  
   de: Juli
