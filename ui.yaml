@@ -1,5 +1,10 @@
 # Label
 
+label_edit:
+  nl: Bewerk
+  de: Bearbeiten
+  en: Edit
+  fr: Modifier
 label_never:
   nl: Nooit
   en: Never
