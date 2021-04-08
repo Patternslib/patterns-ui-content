@@ -56,34 +56,42 @@ label_language:
 label_system_language:
   nl: Systeemtaal
   en: System language
-  de: System language
+  de: Systemsprache
+  fr: Langue du système
 label_english:
   nl: Engels
   en: English
   de: Englisch
+  fr: Anglais
 label_dutch:
   nl: Nederlands
   en: Dutch
   de: Niederländisch
+  fr: Néerlandais
 label_german:
   nl: Duits
   en: German
   de: Deutsch
+  fr: Allemand
 label_german_native:
   nl: Deutsch
   en: Deutsch
   de: Deutsch
+  fr: Deutsch
 label_dutch_native:
   nl: Nederlands
   en: Nederlands
   de: Nederlands
+  fr: Nederlands
 label_english_native:
   nl: English
   en: English
   de: English
+  fr: English
 label_maintenance:
   nl: Onderhoud
   en: Maintenance
+  de: Instandhaltung
   de: Maintenance
 label_visibility: 
   nl: Zichtbaarheid
