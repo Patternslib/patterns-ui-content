@@ -16,15 +16,18 @@ label_immediately:
 label_daily: 
   nl: Dagelijks
   en: Daily
-  de: Daily
+  de: Täglich
+  fr: Du quotidien
 label_weekly:
   nl: Wekelijks
   en: Weekly
-  de: Weekly
+  de: Wöchentlich
+  fr: Hebdomadaire
 label_monthly: 
   nl: Maandelijks
   en: Monthly
   de: Monthly
+  fr: Mensuel
 label_contrast:
   nl: Contrast
   en: Contrast
@@ -105,14 +108,17 @@ label_users:
   nl: Gebruikers
   en: Users
   de: Benutzers
+  fr: Utilisateurs
 label_account: 
   nl: Account
   en: Account
   de: Konto
+  fr: Compte
 label_settings:
   nl: Instellingen
   en: Settings
   de: Einstellungen
+  fr: Paramètres
 label_save:
   nl: Sla op
   en: Save
