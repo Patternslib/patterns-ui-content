@@ -56,6 +56,7 @@ label_language:
   nl: Taal
   en: Language
   de: Sprache
+  fr: Langue
 label_system_language:
   nl: Systeemtaal
   en: System language
