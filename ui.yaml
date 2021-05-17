@@ -150,6 +150,11 @@ label_telephone_number_mobile:
   en: Telephone number mobile
   de: Telefonnummer Handy
   fr: Numéro de portable
+label_telephone_number_internal:
+  nl: Telefoonnummer intern
+  en: Telephone number internal
+  de: Interne Telefonnummer
+  fr: Numéro de téléphone interne
 label_email:
   nl: E-mail
   en: E-mail
