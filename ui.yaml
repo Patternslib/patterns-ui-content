@@ -1,5 +1,10 @@
 # Label
 
+label_sorting:
+  nl: Sortering
+  en: Sorting
+  fr: Tri
+  de: Sortierung
 label_edit:
   nl: Bewerk
   de: Bearbeiten
