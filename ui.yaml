@@ -116,6 +116,11 @@ label_visibility:
   nl: Zichtbaarheid
   en: Visibility
   de: Visibility
+label_back:
+  nl: Terug
+  de: Zurück
+  en: Back
+  fr: Retourner
 label_contributions:
   nl: Bijdragen
   de: Contributions
@@ -247,6 +252,11 @@ label_birthdate:
   nl: Geboortedatum
   en: Birthdate
   de: Geburtstag
+label_options:
+  nl: Opties
+  en: Options
+  de: Optionen
+  fr: Options
 
 label_bookmarks:
   nl: Bladwijzers
