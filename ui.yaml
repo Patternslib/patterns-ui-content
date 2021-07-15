@@ -134,6 +134,11 @@ label_account:
   en: Account
   de: Konto
   fr: Compte
+label_preview: 
+  nl: Voorvertoning
+  en: Preview
+  de: Vorschau
+  fr: Aperçu
 label_settings:
   nl: Instellingen
   en: Settings
