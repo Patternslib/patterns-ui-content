@@ -18,6 +18,11 @@ label_immediately:
   nl: Onmiddelijk
   en: Immediately
   de: Immediately
+label_close:
+  de: Schließen
+  en: Close
+  fr: Fermer
+  nl: Sluit
 label_daily: 
   nl: Dagelijks
   en: Daily
