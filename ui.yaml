@@ -1,5 +1,15 @@
 # Label
 
+label_time:
+  nl: Tijd
+  en: Time
+  fr: Heure
+  de: Zeit
+label_date:
+  nl: Datum
+  en: Date
+  fr: Date
+  de: Datum
 label_sorting:
   nl: Sortering
   en: Sorting
