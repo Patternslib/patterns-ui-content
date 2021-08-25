@@ -1,5 +1,15 @@
 # Label
 
+label_no:
+  nl: Nee
+  en: No
+  fr: Non
+  de: Nein
+label_yes:
+  nl: Ja
+  en: Yes
+  fr: Oui
+  de: Ja
 label_time:
   nl: Tijd
   en: Time
