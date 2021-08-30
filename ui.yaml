@@ -1,5 +1,15 @@
 # Label
 
+label_cancel:
+  de: Abbrechen
+  en: Cancel
+  nl: Annuleer
+  fr: Annuler
+label_remove:
+  nl: Verwijder
+  en: Remove
+  fr: Supprimer
+  de: Entfernen
 label_time:
   nl: Tijd
   en: Time
