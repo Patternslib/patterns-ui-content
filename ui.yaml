@@ -1,6 +1,5 @@
 # Label
 
-<<<<<<< HEAD
 label_cancel:
   de: Abbrechen
   en: Cancel
@@ -11,7 +10,6 @@ label_remove:
   en: Remove
   fr: Supprimer
   de: Entfernen
-=======
 label_no:
   nl: Nee
   en: No
@@ -22,7 +20,6 @@ label_yes:
   en: Yes
   fr: Oui
   de: Ja
->>>>>>> da5dcc9ea041afabb412c07db4e0d2e4a25288bc
 label_time:
   nl: Tijd
   en: Time
