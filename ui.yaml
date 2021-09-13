@@ -1,5 +1,8 @@
 # Label
 
+label_ok:
+  en: Okay
+  nl: Oké
 label_cancel:
   de: Abbrechen
   en: Cancel
@@ -11,10 +14,27 @@ label_remove:
   fr: Supprimer
   de: Entfernen
 label_no:
-  nl: Nee
-  en: No
-  fr: Non
+  bg: Не
+  ca: 'No'
+  cs: Ne
   de: Nein
+  el: Όχι
+  en: 'No'
+  es: 'No'
+  fi: Ei
+  fr: Non
+  hr: Ne
+  hu: Nem
+  is: Nei
+  it: 'No'
+  lt: Ne
+  lv: Nē
+  mt: Le
+  nl: Nee
+  nl_BE: Nee
+  'no': ''
+  pt: Não
+  sl: Ne
 label_yes:
   nl: Ja
   en: Yes
@@ -30,6 +50,50 @@ label_date:
   en: Date
   fr: Date
   de: Datum
+label_previous:
+  bg: Назад
+  ca: Anterior
+  cs: Předchozí
+  de: Vorhergehende
+  el: Προηγούμενο
+  en: Previous
+  es: Anterior
+  fi: Edellinen
+  fr: Précédent
+  hr: Prethodni
+  hu: Előző
+  is: Fyrra
+  it: Indietro
+  lt: Ankstesnis
+  lv: Atpakaļ
+  mt: Preċedenti
+  nl: Vorige
+  nl_BE: Vorige
+  'no': ''
+  pt: Anterior
+  sl: Nazaj
+label_next:
+  bg: Напред
+  ca: Següent
+  cs: Další
+  de: Weiter
+  el: Επόμενο
+  en: Next
+  es: Siguiente
+  fi: Seuraava
+  fr: Suivant
+  hr: Sljedeće
+  hu: Következő
+  is: Næsta
+  it: Avanti
+  lt: Toliau
+  lv: Tālāk
+  mt: Li jmiss
+  nl: Volgende
+  nl_BE: Volgende
+  'no': ''
+  pt: Seguinte
+  sl: Naprej
 label_sorting:
   nl: Sortering
   en: Sorting
