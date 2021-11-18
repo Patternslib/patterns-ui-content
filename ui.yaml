@@ -1,5 +1,396 @@
 # Label
 
+label_afghanistan:
+  en: Afghanistan
+label_albania:
+  en: Albania
+label_algeria:
+  en: Algeria
+label_andorra:
+  en: Andorra
+label_angola:
+  en: Angola
+label_antigua-and-barbuda:
+  en: Antigua and Barbuda
+label_argentina:
+  en: Argentina
+label_armenia:
+  en: Armenia
+label_australia:
+  en: Australia
+label_austria:
+  en: Austria
+label_azerbaijan:
+  en: Azerbaijan
+label_bahamas:
+  en: Bahamas
+label_bahrain:
+  en: Bahrain
+label_bangladesh:
+  en: Bangladesh
+label_barbados:
+  en: Barbados
+label_belarus:
+  en: Belarus
+label_belgium:
+  en: Belgium
+label_belize:
+  en: Belize
+label_benin:
+  en: Benin
+label_bhutan:
+  en: Bhutan
+label_bolivia:
+  en: Bolivia
+label_bosnia-and-herzegovina:
+  en: Bosnia and Herzegovina
+label_botswana:
+  en: Botswana
+label_brazil:
+  en: Brazil
+label_brunei:
+  en: Brunei
+label_bulgaria:
+  en: Bulgaria
+label_burkina-faso:
+  en: Burkina Faso
+label_burundi:
+  en: Burundi
+label_côte-d'ivoire:
+  en: Côte d'Ivoire
+label_cabo-verde:
+  en: Cabo Verde
+label_cambodia:
+  en: Cambodia
+label_cameroon:
+  en: Cameroon
+label_canada:
+  en: Canada
+label_central-african-republic:
+  en: Central African Republic
+label_chad:
+  en: Chad
+label_chile:
+  en: Chile
+label_china:
+  en: China
+label_colombia:
+  en: Colombia
+label_comoros:
+  en: Comoros
+label_congo-(congo-brazzaville):
+  en: Congo (Congo-Brazzaville)
+label_costa-rica:
+  en: Costa Rica
+label_croatia:
+  en: Croatia
+label_cuba:
+  en: Cuba
+label_cyprus:
+  en: Cyprus
+label_czechia-(czech-republic):
+  en: Czechia (Czech Republic)
+label_democratic-republic-of-the-congo:
+  en: Democratic Republic of the Congo
+label_denmark:
+  en: Denmark
+label_djibouti:
+  en: Djibouti
+label_dominica:
+  en: Dominica
+label_dominican-republic:
+  en: Dominican Republic
+label_ecuador:
+  en: Ecuador
+label_egypt:
+  en: Egypt
+label_el-salvador:
+  en: El Salvador
+label_equatorial-guinea:
+  en: Equatorial Guinea
+label_eritrea:
+  en: Eritrea
+label_estonia:
+  en: Estonia
+label_eswatini-(fmr.-"swaziland"):
+  en: Eswatini (fmr. "Swaziland")
+label_ethiopia:
+  en: Ethiopia
+label_fiji:
+  en: Fiji
+label_finland:
+  en: Finland
+label_france:
+  en: France
+label_gabon:
+  en: Gabon
+label_gambia:
+  en: Gambia
+label_georgia:
+  en: Georgia
+label_germany:
+  en: Germany
+label_ghana:
+  en: Ghana
+label_greece:
+  en: Greece
+label_grenada:
+  en: Grenada
+label_guatemala:
+  en: Guatemala
+label_guinea:
+  en: Guinea
+label_guinea-bissau:
+  en: Guinea-Bissau
+label_guyana:
+  en: Guyana
+label_haiti:
+  en: Haiti
+label_holy-see:
+  en: Holy See
+label_honduras:
+  en: Honduras
+label_hungary:
+  en: Hungary
+label_iceland:
+  en: Iceland
+label_india:
+  en: India
+label_indonesia:
+  en: Indonesia
+label_iran:
+  en: Iran
+label_iraq:
+  en: Iraq
+label_ireland:
+  en: Ireland
+label_israel:
+  en: Israel
+label_italy:
+  en: Italy
+label_jamaica:
+  en: Jamaica
+label_japan:
+  en: Japan
+label_jordan:
+  en: Jordan
+label_kazakhstan:
+  en: Kazakhstan
+label_kenya:
+  en: Kenya
+label_kiribati:
+  en: Kiribati
+label_kuwait:
+  en: Kuwait
+label_kyrgyzstan:
+  en: Kyrgyzstan
+label_laos:
+  en: Laos
+label_latvia:
+  en: Latvia
+label_lebanon:
+  en: Lebanon
+label_lesotho:
+  en: Lesotho
+label_liberia:
+  en: Liberia
+label_libya:
+  en: Libya
+label_liechtenstein:
+  en: Liechtenstein
+label_lithuania:
+  en: Lithuania
+label_luxembourg:
+  en: Luxembourg
+label_madagascar:
+  en: Madagascar
+label_malawi:
+  en: Malawi
+label_malaysia:
+  en: Malaysia
+label_maldives:
+  en: Maldives
+label_mali:
+  en: Mali
+label_malta:
+  en: Malta
+label_marshall-islands:
+  en: Marshall Islands
+label_mauritania:
+  en: Mauritania
+label_mauritius:
+  en: Mauritius
+label_mexico:
+  en: Mexico
+label_micronesia:
+  en: Micronesia
+label_moldova:
+  en: Moldova
+label_monaco:
+  en: Monaco
+label_mongolia:
+  en: Mongolia
+label_montenegro:
+  en: Montenegro
+label_morocco:
+  en: Morocco
+label_mozambique:
+  en: Mozambique
+label_myanmar-(formerly-burma):
+  en: Myanmar (formerly Burma)
+label_namibia:
+  en: Namibia
+label_nauru:
+  en: Nauru
+label_nepal:
+  en: Nepal
+label_netherlands:
+  en: Netherlands
+label_new-zealand:
+  en: New Zealand
+label_nicaragua:
+  en: Nicaragua
+label_niger:
+  en: Niger
+label_nigeria:
+  en: Nigeria
+label_north-korea:
+  en: North Korea
+label_north-macedonia:
+  en: North Macedonia
+label_norway:
+  en: Norway
+label_oman:
+  en: Oman
+label_pakistan:
+  en: Pakistan
+label_palau:
+  en: Palau
+label_palestine-state:
+  en: Palestine State
+label_panama:
+  en: Panama
+label_papua-new-guinea:
+  en: Papua New Guinea
+label_paraguay:
+  en: Paraguay
+label_peru:
+  en: Peru
+label_philippines:
+  en: Philippines
+label_poland:
+  en: Poland
+label_portugal:
+  en: Portugal
+label_qatar:
+  en: Qatar
+label_romania:
+  en: Romania
+label_russia:
+  en: Russia
+label_rwanda:
+  en: Rwanda
+label_saint-kitts-and-nevis:
+  en: Saint Kitts and Nevis
+label_saint-lucia:
+  en: Saint Lucia
+label_saint-vincent-and-the-grenadines:
+  en: Saint Vincent and the Grenadines
+label_samoa:
+  en: Samoa
+label_san-marino:
+  en: San Marino
+label_sao-tome-and-principe:
+  en: Sao Tome and Principe
+label_saudi-arabia:
+  en: Saudi Arabia
+label_senegal:
+  en: Senegal
+label_serbia:
+  en: Serbia
+label_seychelles:
+  en: Seychelles
+label_sierra-leone:
+  en: Sierra Leone
+label_singapore:
+  en: Singapore
+label_slovakia:
+  en: Slovakia
+label_slovenia:
+  en: Slovenia
+label_solomon-islands:
+  en: Solomon Islands
+label_somalia:
+  en: Somalia
+label_south-africa:
+  en: South Africa
+label_south-korea:
+  en: South Korea
+label_south-sudan:
+  en: South Sudan
+label_spain:
+  en: Spain
+label_sri-lanka:
+  en: Sri Lanka
+label_sudan:
+  en: Sudan
+label_suriname:
+  en: Suriname
+label_sweden:
+  en: Sweden
+label_switzerland:
+  en: Switzerland
+label_syria:
+  en: Syria
+label_tajikistan:
+  en: Tajikistan
+label_tanzania:
+  en: Tanzania
+label_thailand:
+  en: Thailand
+label_timor-leste:
+  en: Timor-Leste
+label_togo:
+  en: Togo
+label_tonga:
+  en: Tonga
+label_trinidad-and-tobago:
+  en: Trinidad and Tobago
+label_tunisia:
+  en: Tunisia
+label_turkey:
+  en: Turkey
+label_turkmenistan:
+  en: Turkmenistan
+label_tuvalu:
+  en: Tuvalu
+label_uganda:
+  en: Uganda
+label_ukraine:
+  en: Ukraine
+label_united-arab-emirates:
+  en: United Arab Emirates
+label_united-kingdom:
+  en: United Kingdom
+label_united-states-of-america:
+  en: United States of America
+label_uruguay:
+  en: Uruguay
+label_uzbekistan:
+  en: Uzbekistan
+label_vanuatu:
+  en: Vanuatu
+label_venezuela:
+  en: Venezuela
+label_vietnam:
+  en: Vietnam
+label_yemen:
+  en: Yemen
+label_zambia:
+  en: Zambia
+label_zimbabwe:
+  en: Zimbabwe
+
 label_ok:
   en: Okay
   nl: Oké
