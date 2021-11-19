@@ -1,5 +1,41 @@
 # Label
 
+label_sunday:
+  en: Sunday
+  nl: Zondag
+  de: Sonntag
+  fr: Dimanche
+label_monday:
+  en: Monday
+  nl: Maandag
+  de: Montag
+  fr: Lundi
+label_tuesday:
+  en: Tuesday
+  nl: Maandag
+  de: Dienstag
+  fr: Mardi
+label_wednesday:
+  en: Wednesday
+  nl: Maandag
+  de: Mittwoch
+  fr: Mercredi
+label_thursday:
+  en: Thursday
+  nl: Maandag
+  de: Donnerstag
+  fr: jeudi
+label_friday:
+  en: Friday
+  nl: Maandag
+  de: Freitag
+  fr: vendredi
+label_saturday:
+  en: Saturday
+  nl: Maandag
+  de: Samstag
+  fr: samedi
+
 label_afghanistan:
   en: Afghanistan
 label_albania:
