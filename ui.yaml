@@ -652,7 +652,7 @@ label_contributions:
 label_users:
   nl: Gebruikers
   en: Users
-  de: Benutzers
+  de: Benutzer
   fr: Utilisateurs
 label_account: 
   nl: Account
@@ -794,27 +794,35 @@ label_bookmarks:
 label_select:
   nl: Selecteer
   en: Select
+  de: Auswählen
 label_read_more:
   nl: Lees meer…
   en: Read more…
+  de: Mehr lesen…
 label_step:
   nl: Stap
   en: Step
 label_log_out:
   nl: Log uit
   en: Log out
+  de: Ausloggen
 label_my_profile:
   nl: Mijn profiel
   en: My profile
+  de: Mein Profil
 label_change_password:
   nl: Wijzig wachtwoord
   en: Change password
+  de: Passwort ändern
 label_preferences:
   nl: Voorkeuren
   en: Preferences
+  de: Einstellungen
 label_replace_photo:
   nl: Vervang foto
   en: Replace photo
+  de: Foto ersetzen
 label_upload_photo:
   nl: Laad een foto op
   en: Upload a photo
+  de: Ein Foto hochladen
