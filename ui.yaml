@@ -1,5 +1,9 @@
 # Label
 
+label_table_of_contents:
+  en: Table of contents
+  nl: Inhoudsopgave
+  
 label_reply_imp:
   en: Reply
   nl: Beantwoorden
