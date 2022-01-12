@@ -1,5 +1,31 @@
 # Label
 
+label_reply_imp:
+  en: Reply
+  nl: Beantwoorden
+  de: Antworten
+  fr: Répondre
+label_comment_imp:
+  en: Comment
+  nl: Reageer
+  de: Kommentieren
+  fr: Répondre
+label_like_imp:
+  nl: Leuk
+  en: Like
+  de: Gefällt mir
+  fr: J'aime
+label_post:
+  de: Abschicken
+  en: Send
+  nl: Verstuur
+  fr: Publier
+label_leave_comment:
+  de: Kommentar verfassen
+  en: Leave a comment
+  nl: Reageer
+  fr: Commenter
+  
 label_sunday:
   en: Sunday
   nl: Zondag
