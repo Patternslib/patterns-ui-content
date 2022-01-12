@@ -3,7 +3,6 @@
 label_table_of_contents:
   en: Table of contents
   nl: Inhoudsopgave
-  
 label_reply_imp:
   en: Reply
   nl: Beantwoorden
@@ -29,7 +28,6 @@ label_leave_comment:
   en: Leave a comment
   nl: Reageer
   fr: Commenter
-  
 label_sunday:
   en: Sunday
   nl: Zondag
