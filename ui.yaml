@@ -1,5 +1,48 @@
 # Label
-
+label_password_confirm:
+  bg: Паролата отново
+  ca: Repetició de la contrasenya
+  cs: Heslo znovu
+  de: Wiederholung Passwort
+  el: Κωδικός πρόσβασης ξανά
+  en: Again password
+  es: Repetir contraseña
+  fi: Toista salasana
+  fr: Confirmer le mot de passe
+  hr: Ponovite lozinku
+  hu: Jelszó még egyszer
+  is: Staðfesta lykilorð
+  it: Ripetere password
+  lt: Pakartoti slaptažodį
+  lv: Ievadiet paroli vēlreiz
+  mt: Erġa' daħħal il-password
+  nl: Nogmaals wachtwoord
+  nl_BE: Wachtwoord opnieuw invoeren
+  'no': ''
+  pt: Repetir a palavra-passe
+  sl: Ponovno geslo
+label_password:
+  bg: Парола
+  ca: Contrasenya
+  cs: Heslo
+  de: Gewünschtes Passwort
+  el: Κωδικός
+  en: Password
+  es: Contraseña
+  fi: Salasana
+  fr: Mot de passe
+  hr: Lozinka
+  hu: Jelszó
+  is: Lykilorð
+  it: Password
+  lt: Slaptažodis
+  lv: Parole
+  mt: Password
+  nl: Wachtwoord
+  nl_BE: Wachtwoord
+  'no': ''
+  pt: Palavra-passe
+  sl: Prijava
 label_table_of_contents:
   en: Table of contents
   nl: Inhoudsopgave
@@ -824,9 +867,27 @@ label_select:
   en: Select
   de: Auswählen
 label_read_more:
-  nl: Lees meer…
-  en: Read more…
-  de: Mehr lesen…
+  bg: Прочетете повече
+  ca: Més informació
+  cs: Více informací
+  de: Lesen Sie mehr
+  el: Διαβάστε περισσότερα
+  en: Read more
+  es: Leer más
+  fi: Lue lisää
+  fr: Pour en savoir plus
+  hr: Saznajte više
+  hu: Olvasson többet
+  is: Lesa meira
+  it: Ulteriori informazioni
+  lt: Sužinokite daugiau
+  lv: Lasīt vairāk
+  mt: Aqra aktar
+  nl: Lees verder
+  nl_BE: Meer informatie
+  'no': ''
+  pt: Saiba mais
+  sl: Več informacij
 label_step:
   nl: Stap
   en: Step
