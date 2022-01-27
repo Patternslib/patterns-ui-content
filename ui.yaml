@@ -1,4 +1,14 @@
 # Label
+label_height: 
+  nl: Hoogte
+  en: Height
+  de: Höhe
+  fr: Hauteur
+label_position: 
+  nl: Positie
+  en: Position
+  de: Position
+  fr: Position
 label_password_confirm:
   bg: Паролата отново
   ca: Repetició de la contrasenya
