@@ -915,3 +915,8 @@ label_upload_photo:
   nl: Laad een foto op
   en: Upload a photo
   de: Ein Foto hochladen
+label_upload_from_device:
+  nl: Opladen vanaf apparaat
+  en: Upload from device
+  de: Vom Gerät hochladen
+  fr: Télécharger depuis l'appareil
