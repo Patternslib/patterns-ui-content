@@ -720,7 +720,8 @@ label_maintenance:
 label_visibility: 
   nl: Zichtbaarheid
   en: Visibility
-  de: Visibility
+  de: Sichtbarkeit
+  fr: Visibilité
 label_back:
   nl: Terug
   de: Zurück
