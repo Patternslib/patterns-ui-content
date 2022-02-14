@@ -71,6 +71,11 @@ label_like_imp:
   en: Like
   de: Gefällt mir
   fr: J'aime
+label_unlike_imp:
+  nl: Niet meer leuk
+  en: Unlike
+  de: Gefällt mir nicht mehr
+  fr: N'aime pas
 label_post:
   de: Abschicken
   en: Send
