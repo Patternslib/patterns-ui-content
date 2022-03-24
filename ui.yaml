@@ -1,4 +1,18 @@
 # Label
+label_optional: 
+  nl: Optioneel
+  en: Optional
+snippet_optional: 
+  nl: optioneel
+  en: optional
+label_first_name:
+  nl: Voornaam
+  en: First name
+  de: Vorname
+label_last_name:
+  nl: Achternaam
+  en: Family name
+  de: Nachname
 label_height: 
   nl: Hoogte
   en: Height
@@ -796,6 +810,29 @@ label_email:
   en: E-mail
   de: E-mail
   fr: Courriel
+label_email_address:
+  bg: Имей адрес
+  ca: Adreça electrònica
+  cs: E-mailová adresa
+  de: E-Mail-Adresse
+  el: Διεύθυνση email
+  en: E-mail address
+  es: Dirección de correo electrónico
+  fi: Sähköpostiosoite
+  fr: Adresse e-mail
+  hr: Adresa e-pošte
+  hu: E-mailcím
+  is: Tölvupóstfang
+  it: Indirizzo e-mail
+  lt: El. pašto adresas
+  lv: E-pasta adrese
+  mt: Indirizz elettroniku
+  nl: E-mailadres
+  nl_BE: E-mailadres
+  'no': ''
+  pt: Endereço de e-mail
+  sk: E-mailová adresa
+  sl: E-poštni naslov
 label_title:
   nl: Titel
   en: Title
