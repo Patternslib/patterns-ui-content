@@ -1,4 +1,7 @@
 # Label
+label_personal_details:
+  nl: Persoonlijke gegevens
+  en: Personal details
 label_optional: 
   nl: Optioneel
   en: Optional
