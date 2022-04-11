@@ -979,3 +979,13 @@ label_upload_from_device:
   en: Upload from device
   de: Vom Gerät hochladen
   fr: Télécharger depuis l'appareil
+label_watch:
+  nl: Horloge
+  en: Watch
+  de: "Diesem Arbeitsraum folgen"
+  fr: Regardez
+label_watching:
+  nl: "aan het kijken"
+  en: Watching
+  de: "Aufhören, diesem Arbeitsraum zu folgen"
+  fr: "En train de regarder"
