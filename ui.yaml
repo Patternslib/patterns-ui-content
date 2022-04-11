@@ -982,10 +982,10 @@ label_upload_from_device:
 label_watch:
   nl: Horloge
   en: Watch
-  de: "Diesem Arbeitsraum folgen"
+  de: "Folgen"
   fr: Regardez
 label_watching:
   nl: "aan het kijken"
   en: Watching
-  de: "Aufhören, diesem Arbeitsraum zu folgen"
+  de: "Folgen beenden"
   fr: "En train de regarder"
