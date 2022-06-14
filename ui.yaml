@@ -1,4 +1,9 @@
 # Label
+label_thanks_form:
+  nl: Dankuwel
+  en: Thank you
+  de: Vielen Dank
+  fr: Merci
 label_organisation:
   nl: Organisatie
   en: Organisation
