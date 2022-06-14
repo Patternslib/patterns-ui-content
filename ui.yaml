@@ -2,6 +2,16 @@
 label_organisation:
   nl: Organisatie
   en: Organisation
+label_download_imp:
+  nl: Download
+  en: Download
+  de: Herunterladen
+  fr: Télécharger
+label_confirm_imp:
+  fr: Confirmer
+  de: Bestätigen
+  en: Confirm
+  nl: Bevestig
 label_personal_details:
   nl: Persoonlijke gegevens
   en: Personal details
