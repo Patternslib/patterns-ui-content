@@ -4,9 +4,29 @@ label_thanks_form:
   en: Thank you
   de: Vielen Dank
   fr: Merci
+label_share:
+  de: Teilen
+  en: Share
+  nl: Delen
+  fr: Partager
+label_share_imp:
+  de: Teilen
+  en: Share
+  nl: Deel
+  fr: Partager
 label_organisation:
   nl: Organisatie
   en: Organisation
+label_download_imp:
+  nl: Download
+  en: Download
+  de: Herunterladen
+  fr: Télécharger
+label_confirm_imp:
+  fr: Confirmer
+  de: Bestätigen
+  en: Confirm
+  nl: Bevestig
 label_download_imp:
   nl: Download
   en: Download
