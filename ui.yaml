@@ -1,4 +1,9 @@
 # Label
+label_url:
+  nl: Url
+  en: URL
+  de: URL
+  fr: URL
 label_thanks_form:
   nl: Dankuwel
   en: Thank you
