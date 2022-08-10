@@ -585,6 +585,11 @@ label_remove:
   en: Remove
   fr: Supprimer
   de: Entfernen
+label_delete:
+  nl: Verwijder
+  en: Delete
+  fr: Effacer
+  de: Löschen
 label_no:
   bg: Не
   ca: 'No'
