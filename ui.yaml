@@ -607,6 +607,11 @@ label_remove:
   fr: Supprimer
   de: Entfernen
 label_delete:
+  nl: Verwijderen
+  en: Delete
+  fr: Effacer
+  de: Löschen
+label_delete_imp:
   nl: Verwijder
   en: Delete
   fr: Effacer
