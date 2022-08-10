@@ -993,9 +993,15 @@ label_bookmarks:
   en: Bookmarks
   en: Lesezeichen
 label_select:
+  nl: Selecteren
+  en: Select
+  de: Auswählen
+  fr: Sélectionnez
+label_select_imp:
   nl: Selecteer
   en: Select
   de: Auswählen
+  fr: Sélectionnez
 label_read_more:
   bg: Прочетете повече
   ca: Més informació
