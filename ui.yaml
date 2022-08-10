@@ -1,4 +1,25 @@
 # Label
+label_continue:
+  bg: Напред
+  ca: Següent
+  cs: Další
+  de: Weiter
+  el: Επόμενο
+  en: Continue
+  es: Siguiente
+  fi: Seuraava
+  fr: Suivant
+  hr: Sljedeće
+  hu: Következő
+  is: Næsta
+  it: Avanti
+  lt: Toliau
+  lv: Tālāk
+  mt: Li jmiss
+  nl: Volgende
+  nl_BE: Volgende
+  pt: Seguinte
+  sl: Naprej
 label_url:
   nl: Url
   en: URL
