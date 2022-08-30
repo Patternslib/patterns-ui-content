@@ -1,4 +1,14 @@
 # Label
+label_paste:
+  nl: Plakken
+  en: Paste
+  fr: Coller
+  de: Einsetzen
+label_paste_imp:
+  nl: Plak
+  en: Paste
+  fr: Coller
+  de: Einsetzen
 label_continue:
   bg: Напред
   ca: Següent
