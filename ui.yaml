@@ -857,10 +857,16 @@ label_settings:
   en: Settings
   de: Einstellungen
   fr: Paramètres
-label_save:
-  nl: Sla op
+label_save_imp:
+  nl: Bewaar
   en: Save
   de: Speichern
+  fr: Enregistrez
+label_save:
+  nl: Bewaren
+  en: Save
+  de: Speichern
+  fr: Enregistrez
 label_job_title:
   nl: Functie
   en: Job title
