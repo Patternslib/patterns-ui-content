@@ -1,4 +1,45 @@
 # Label
+label_undo:
+  nl: Maak ongedaan
+  en: Undo
+label_redo:
+  nl: Herstel
+  en: Redo
+label_code:
+  nl: Code
+  en: Code
+label_hyperlink:
+  nl: Hyperlink
+  en: Hyperlink
+  de: Hyperlink
+  fr: Lien hypertexte
+label_bold:
+  nl: Vet
+  en: Bold
+label_italic:
+  nl: Cursief
+  en: Italic
+label_formatting:
+  nl: Formattering
+  en: Formatting
+label_strike_through:
+  nl: Doorhalen
+  en: Strike through
+label_horizontal_rule:
+  nl: Horizontale regel
+  en: Horizontal rule
+label_lists:
+  nl: Lijsten
+  en: Lists
+label_image:
+  nl: Afbeelding
+  en: Image
+label_video:
+  nl: Video
+  en: Video
+label_table:
+  nl: Tabel
+  en: Table
 label_paste:
   nl: Plakken
   en: Paste
