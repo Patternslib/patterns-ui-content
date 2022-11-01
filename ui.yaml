@@ -675,6 +675,11 @@ label_ok:
 label_cancel:
   de: Abbrechen
   en: Cancel
+  nl: Annuleren
+  fr: Annuler
+label_cancel_imp:
+  de: Abbrechen
+  en: Cancel
   nl: Annuleer
   fr: Annuler
 label_remove:
