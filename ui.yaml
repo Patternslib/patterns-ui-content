@@ -1,4 +1,29 @@
 # Label
+
+label_paragraph:
+  nl: Alinea
+  en: Paragraph
+label_quote:
+  nl: Citaat
+  en: Quote
+label_header_level_1:
+  nl: Kop, niveau 1
+  en: Header level 1
+label_header_level_2:
+  nl: Kop, niveau 2
+  en: Header level 2
+label_header_level_3:
+  nl: Kop, niveau 3
+  en: Header level 3
+label_header_level_4:
+  nl: Kop, niveau 4
+  en: Header level 4
+label_header_level_5:
+  nl: Kop, niveau 5
+  en: Header level 5
+label_header_level_6:
+  nl: Kop, niveau 6
+  en: Header level 6
 label_undo:
   nl: Maak ongedaan
   en: Undo
