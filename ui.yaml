@@ -1,5 +1,35 @@
 # Label
 
+label_new_table:
+  nl: Nieuwe tabel
+  en: New table
+label_remove_table_imp:
+  nl: Verwijder tabel
+  en: Remove table
+label_add_column_to_the_left_imp:
+  nl: Voeg een kolom links toe
+  en: Add a column to the left
+label_add_column_to_the_right_imp:
+  nl: Voeg een kolom rechts toe
+  en: Add a column to the right
+label_remove_column_imp:
+  nl: Verwijder kolom
+  en: Remove column
+label_remove_row_imp:
+  nl: Verwijder rij
+  en: Remove row
+label_add_row_above_imp:
+  nl: Voeg rij boven toe
+  en: Add row above
+label_add_row_below_imp:
+  nl: Voeg rij onder toe
+  en: Add row below
+label_ordered_list:
+  nl: Geordende lijst
+  en: Ordered list
+label_unordered_list:
+  nl: Ongeordende lijst
+  en: Unordered list
 label_paragraph:
   nl: Alinea
   en: Paragraph
