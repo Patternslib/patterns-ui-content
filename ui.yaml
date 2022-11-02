@@ -19,11 +19,11 @@ label_remove_row_imp:
   nl: Verwijder rij
   en: Remove row
 label_add_row_above_imp:
-  nl: Voeg rij boven toe
-  en: Add row above
+  nl: Voeg een rij boven toe
+  en: Add a row above
 label_add_row_below_imp:
-  nl: Voeg rij onder toe
-  en: Add row below
+  nl: Voeg een rij onder toe
+  en: Add a row below
 label_ordered_list:
   nl: Geordende lijst
   en: Ordered list
