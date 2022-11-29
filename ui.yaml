@@ -1,5 +1,11 @@
 # Label
 
+label_internal_link:
+  nl: Interne koppeling
+  en: Internal link
+label_external_link:
+  nl: Externe koppeling
+  en: External link
 label_new_table:
   nl: Nieuwe tabel
   en: New table
