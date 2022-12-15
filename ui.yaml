@@ -152,9 +152,19 @@ label_share_imp:
   en: Share
   nl: Deel
   fr: Partager
+label_homescreen:
+  nl: Home
+  en: Home
+  fr: Accueil
+  de: Startseite
 label_organisation:
   nl: Organisatie
   en: Organisation
+label_all_organisations:
+  nl: Alle rganisaties
+  en: All organisations
+  fr: Toutes les organisations
+  de: Alle Organisationen
 label_download_imp:
   nl: Download
   en: Download
