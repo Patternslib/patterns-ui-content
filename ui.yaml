@@ -911,6 +911,30 @@ label_french:
   en: French
   de: Französisch
   fr: Français
+label_hebrew:
+  nl: Hebreeuws
+  en: Hebrew
+  fr: Hébreu
+  de: Hebräisch
+  he: תירִבעִ
+label_hebrew_native:
+  nl: תירִבעִ
+  en: תירִבעִ
+  fr: תירִבעִ
+  de: תירִבעִ
+  he: תירִבעִ
+label_arabic:
+  nl: Arabisch
+  en: Arabic
+  fr: Arabe
+  de: Arabisch
+  he: תירִבעִ
+label_arabic_native:
+  nl: يبرع
+  en: يبرع
+  fr: يبرع
+  de: يبرع
+  he: يبرع
 label_french_native:
   nl: Français
   en: Français
