@@ -729,6 +729,11 @@ label_cancel_imp:
   nl: Annuleer
   fr: Annuler
 label_remove:
+  nl: Verwijderen
+  en: Remove
+  fr: Supprimer
+  de: Entfernen
+label_remove_imp:
   nl: Verwijder
   en: Remove
   fr: Supprimer
