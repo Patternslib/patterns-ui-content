@@ -851,6 +851,11 @@ label_close:
   de: Schließen
   en: Close
   fr: Fermer
+  nl: Sluiten
+label_close_imp:
+  de: Schließen
+  en: Close
+  fr: Fermer
   nl: Sluit
 label_daily: 
   nl: Dagelijks
