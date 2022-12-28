@@ -1,5 +1,11 @@
 # Label
 
+label_unarchive_imp:
+  nl: Dearchiveer
+  en: Unarchive
+label_archive_imp:
+  nl: Archiveer
+  en: Archive
 label_internal_link:
   nl: Interne koppeling
   en: Internal link
