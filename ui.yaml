@@ -1233,12 +1233,12 @@ label_upload_from_device:
   de: Vom Gerät hochladen
   fr: Télécharger depuis l'appareil
 label_watch:
-  nl: Horloge
+  nl: Volgen
   en: Watch
   de: "Folgen"
   fr: Regardez
 label_watching:
-  nl: "aan het kijken"
+  nl: "aan het volgen"
   en: Watching
   de: "Folgen beenden"
   fr: "En train de regarder"
