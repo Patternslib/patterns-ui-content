@@ -3,81 +3,133 @@
 label_apply_imp:
   nl: Pas toe
   en: Apply
+  fr: Appliquer
+  de: Anwenden
 label_unarchive_imp:
   nl: Dearchiveer
   en: Unarchive
+  fr: Désarchiver
+  de: Unarchivieren
 label_archive_imp:
   nl: Archiveer
   en: Archive
+  fr: Archiver
+  de: Archivieren
 label_internal_link:
   nl: Interne koppeling
   en: Internal link
+  fr: Lien interne
+  de: Interner Link
 label_external_link:
   nl: Externe koppeling
   en: External link
+  fr: Lien externe
+  de: Externer Link
 label_new_table:
   nl: Nieuwe tabel
   en: New table
+  fr: Nouveau tableau
+  de: Neue Tabelle
 label_remove_table_imp:
   nl: Verwijder tabel
   en: Remove table
+  de: Tisch entfernen
+  fr: Supprimer le tableau
 label_add_column_to_the_left_imp:
   nl: Voeg een kolom links toe
   en: Add a column to the left
+  de: Fügen Sie eine Spalte auf der linken Seite hinzu
+  fr: Ajouter une colonne à gauche
 label_add_column_to_the_right_imp:
   nl: Voeg een kolom rechts toe
   en: Add a column to the right
+  fr: Ajouter une colonne à droite
+  de: Rechts eine Spalte hinzufügen
 label_remove_column_imp:
   nl: Verwijder kolom
   en: Remove column
+  de: Spalte entfernen
+  fr: Supprimer la colonne
 label_remove_row_imp:
   nl: Verwijder rij
   en: Remove row
+  de: Zeile entfernen
+  fr: Supprimer la ligne
 label_add_row_above_imp:
   nl: Voeg een rij boven toe
   en: Add a row above
+  fr: Ajouter une ligne au-dessus
+  de: Fügen Sie oben eine Zeile hinzu
 label_add_row_below_imp:
   nl: Voeg een rij onder toe
   en: Add a row below
+  fr: Ajouter une ligne ci-dessous
+  de: Fügen Sie unten eine Zeile hinzu
 label_ordered_list:
   nl: Geordende lijst
   en: Ordered list
+  fr: Liste ordonnée
+  de: Bestellliste
 label_unordered_list:
   nl: Ongeordende lijst
   en: Unordered list
+  fr: Liste non ordonnée
+  de: Ungeordnete Liste
 label_paragraph:
   nl: Alinea
   en: Paragraph
+  de: Absatz
+  fr: Paragraphe
 label_quote:
   nl: Citaat
   en: Quote
+  fr: Citation
+  de: Zitieren
 label_header_level_1:
   nl: Kop, niveau 1
   en: Header level 1
+  de: Kopfzeile, Ebene 1
+  fr: En-tête niveau 1
 label_header_level_2:
   nl: Kop, niveau 2
   en: Header level 2
+  de: Kopfzeile, Ebene 2
+  fr: En-tête niveau 2
 label_header_level_3:
   nl: Kop, niveau 3
   en: Header level 3
+  de: Kopfzeile, Ebene 3
+  fr: En-tête niveau 3
 label_header_level_4:
   nl: Kop, niveau 4
   en: Header level 4
+  de: Kopfzeile, Ebene 4
+  fr: En-tête niveau 4
 label_header_level_5:
   nl: Kop, niveau 5
   en: Header level 5
+  de: Kopfzeile, Ebene 5
+  fr: En-tête niveau 5
 label_header_level_6:
   nl: Kop, niveau 6
   en: Header level 6
+  de: Kopfzeile, Ebene 6
+  fr: En-tête niveau 6
 label_undo:
   nl: Maak ongedaan
   en: Undo
+  fr: Annuler
+  de: Rückgängig machen
 label_redo:
   nl: Herstel
   en: Redo
+  fr: Refaire
+  de: Wiederholen
 label_code:
   nl: Code
   en: Code
+  fr: Code
+  de: Code
 label_hyperlink:
   nl: Hyperlink
   en: Hyperlink
@@ -86,30 +138,48 @@ label_hyperlink:
 label_bold:
   nl: Vet
   en: Bold
+  fr: Gras
+  de: Fett
 label_italic:
   nl: Cursief
   en: Italic
+  de: Kursiv
+  fr: Italique
 label_formatting:
-  nl: Formattering
+  nl: Opmaak
+  fr: Mise en page
+  de: Formatierung
   en: Formatting
 label_strike_through:
   nl: Doorhalen
   en: Strike through
+  de: Durchstreichen
+  fr: Barré
 label_horizontal_rule:
   nl: Horizontale regel
   en: Horizontal rule
+  fr: Règle horizontale
+  de: Horizontale Regel
 label_lists:
   nl: Lijsten
   en: Lists
+  fr: Listes
+  de: Listen
 label_image:
   nl: Afbeelding
   en: Image
+  fr: Image
+  de: Bild
 label_video:
   nl: Video
   en: Video
+  fr: Vidéo
+  de: Video
 label_table:
   nl: Tabel
   en: Table
+  fr: Tableau
+  de: Tisch
 label_paste:
   nl: Plakken
   en: Paste
@@ -200,17 +270,23 @@ label_personal_details:
 label_optional: 
   nl: Optioneel
   en: Optional
+  fr: Facultatif
+  de: Optional
 snippet_optional: 
   nl: optioneel
   en: optional
+  fr: facultatif
+  de: optional
 label_first_name:
   nl: Voornaam
   en: First name
   de: Vorname
+  fr: Prénom
 label_last_name:
   nl: Achternaam
   en: Family name
   de: Nachname
+  fr: Nom de famille
 label_height: 
   nl: Hoogte
   en: Height
