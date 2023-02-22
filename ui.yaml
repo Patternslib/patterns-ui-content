@@ -272,6 +272,12 @@ label_optional:
   en: Optional
   fr: Facultatif
   de: Optional
+label_allow_interaction:
+  nl: Sta interactie toe
+  en: Allow interaction
+label_behaviour:
+  nl: Gedrag
+  en: Behaviour
 snippet_optional: 
   nl: optioneel
   en: optional
