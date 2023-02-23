@@ -33,18 +33,18 @@ label_new_table:
 label_remove_table_imp:
   nl: Verwijder tabel
   en: Remove table
-  de: Tisch entfernen
+  de: Tabelle entfernen
   fr: Supprimer le tableau
 label_add_column_to_the_left_imp:
   nl: Voeg een kolom links toe
   en: Add a column to the left
-  de: Fügen Sie eine Spalte auf der linken Seite hinzu
+  de: Spalte links hinzufügen
   fr: Ajouter une colonne à gauche
 label_add_column_to_the_right_imp:
   nl: Voeg een kolom rechts toe
   en: Add a column to the right
   fr: Ajouter une colonne à droite
-  de: Rechts eine Spalte hinzufügen
+  de: Spalte rechts hinzufügen
 label_remove_column_imp:
   nl: Verwijder kolom
   en: Remove column
@@ -59,22 +59,22 @@ label_add_row_above_imp:
   nl: Voeg een rij boven toe
   en: Add a row above
   fr: Ajouter une ligne au-dessus
-  de: Fügen Sie oben eine Zeile hinzu
+  de: Zeile oben hinzufügen
 label_add_row_below_imp:
   nl: Voeg een rij onder toe
   en: Add a row below
   fr: Ajouter une ligne ci-dessous
-  de: Fügen Sie unten eine Zeile hinzu
+  de: Zeile unten hinzufügen
 label_ordered_list:
   nl: Geordende lijst
   en: Ordered list
   fr: Liste ordonnée
-  de: Bestellliste
+  de: Nummerierte Liste
 label_unordered_list:
   nl: Ongeordende lijst
   en: Unordered list
   fr: Liste non ordonnée
-  de: Ungeordnete Liste
+  de: Aufzählungsliste
 label_paragraph:
   nl: Alinea
   en: Paragraph
@@ -84,42 +84,42 @@ label_quote:
   nl: Citaat
   en: Quote
   fr: Citation
-  de: Zitieren
+  de: Zitat
 label_header_level_1:
   nl: Kop, niveau 1
   en: Header level 1
-  de: Kopfzeile, Ebene 1
+  de: Überschrift 1
   fr: En-tête niveau 1
 label_header_level_2:
   nl: Kop, niveau 2
-  en: Header level 2
+  en: Überschrift 2
   de: Kopfzeile, Ebene 2
   fr: En-tête niveau 2
 label_header_level_3:
   nl: Kop, niveau 3
   en: Header level 3
-  de: Kopfzeile, Ebene 3
+  de: Überschrift 3
   fr: En-tête niveau 3
 label_header_level_4:
   nl: Kop, niveau 4
   en: Header level 4
-  de: Kopfzeile, Ebene 4
+  de: Überschrift 4
   fr: En-tête niveau 4
 label_header_level_5:
   nl: Kop, niveau 5
   en: Header level 5
-  de: Kopfzeile, Ebene 5
+  de: Überschrift 5
   fr: En-tête niveau 5
 label_header_level_6:
   nl: Kop, niveau 6
   en: Header level 6
-  de: Kopfzeile, Ebene 6
+  de: Überschrift 6
   fr: En-tête niveau 6
 label_undo:
   nl: Maak ongedaan
   en: Undo
   fr: Annuler
-  de: Rückgängig machen
+  de: Rückgängig
 label_redo:
   nl: Herstel
   en: Redo
@@ -159,7 +159,7 @@ label_horizontal_rule:
   nl: Horizontale regel
   en: Horizontal rule
   fr: Règle horizontale
-  de: Horizontale Regel
+  de: Horizontale Linie
 label_lists:
   nl: Lijsten
   en: Lists
@@ -179,7 +179,7 @@ label_table:
   nl: Tabel
   en: Table
   fr: Tableau
-  de: Tisch
+  de: Tabelle
 label_paste:
   nl: Plakken
   en: Paste
@@ -239,8 +239,10 @@ label_homescreen:
 label_organisation:
   nl: Organisatie
   en: Organisation
+  de: Organisation
+  fr: Organisation
 label_all_organisations:
-  nl: Alle rganisaties
+  nl: Alle Organisaties
   en: All organisations
   fr: Toutes les organisations
   de: Alle Organisationen
@@ -267,6 +269,7 @@ label_confirm_imp:
 label_personal_details:
   nl: Persoonlijke gegevens
   en: Personal details
+  de: Persönliche Details
 label_optional: 
   nl: Optioneel
   en: Optional
@@ -275,9 +278,11 @@ label_optional:
 label_allow_interaction:
   nl: Sta interactie toe
   en: Allow interaction
+  de: Interaktionen erlauben
 label_behaviour:
   nl: Gedrag
   en: Behaviour
+  de: Verhalten
 snippet_optional: 
   nl: optioneel
   en: optional
@@ -307,7 +312,7 @@ label_password_confirm:
   bg: Паролата отново
   ca: Repetició de la contrasenya
   cs: Heslo znovu
-  de: Wiederholung Passwort
+  de: Passwort wiederholen
   el: Κωδικός πρόσβασης ξανά
   en: Again password
   es: Repetir contraseña
@@ -329,7 +334,7 @@ label_password:
   bg: Парола
   ca: Contrasenya
   cs: Heslo
-  de: Gewünschtes Passwort
+  de: Passwort
   el: Κωδικός
   en: Password
   es: Contraseña
@@ -350,6 +355,8 @@ label_password:
 label_table_of_contents:
   en: Table of contents
   nl: Inhoudsopgave
+  de: Inhaltsverzeichnis
+  fr: Table des matières
 label_reply_imp:
   en: Reply
   nl: Beantwoorden
