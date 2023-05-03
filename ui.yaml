@@ -1,5 +1,71 @@
 # Label
 
+label_nisan:
+  en: Nisan
+  nl: Nisan
+  fr: Nisan
+  de: Nissan
+label_iyar:
+  en: Iyar
+  nl: Iyar
+  fr: Iyar
+  de: Ijjar
+label_sivan:
+  en: Sivan
+  nl: Sivan
+  fr: Sivan
+  de: Siwan
+label_tammuz:
+  en: Tammuz
+  nl: Tammuz
+  fr: Tammouz
+  de: Tammus
+label_av:
+  en: Av
+  nl: Av
+  fr: Av
+  de: Aw
+label_elul:
+  en: Elul
+  nl: Elul
+  fr: Eloul
+  de: Elul
+label_tishrei:
+  en: Tishrei
+  nl: Tishrei
+  fr: Tishri
+  de: Tischri
+label_cheshvan:
+  en: Cheshvan
+  nl: Cheshvan
+  fr: Heshvan
+  de: Cheschwan
+label_kislev:
+  en: Kislev
+  nl: Kislev
+  fr: Kislev
+  de: Kislew
+label_tevet:
+  en: Tevet
+  nl: Tevet
+  fr: Tevet
+  de: Tevet
+label_shevat:
+  en: Shevat
+  nl: Shevat
+  fr: Shevat
+  de: Schewat
+label_adar:
+  en: Adar
+  nl: Adar
+  fr: Adar
+  de: Adar
+label_adar-2:
+  en: Adar 2
+  nl: Adar 2
+  fr: Adar 2
+  de: Adar 2
+
 label_apply_imp:
   nl: Pas toe
   en: Apply
