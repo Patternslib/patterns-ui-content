@@ -1044,69 +1044,106 @@ label_font_size:
   nl: Lettertypegrootte
   en: Font size
   de: Schriftgröße
-label_dashboard:
+llabel_dashboard:
   nl: Dashboard
   en: Dashboard
   de: Dashboard
+  fr: Tableau de bord
+  he: לוח בקרה
+  da: Dashboard
+
 label_accessibility:
   nl: Toegankelijkheid
   en: Accessibility
   de: Barrierefreiheit
+  fr: Accessibilité
+  he: נגישות
+  da: Tilgængelighed
+
 label_no_notification:
   nl: Geen berichtgeving
   en: No notification
   de: Keine Benachrichtigung
+  fr: Pas de notification
+  he: אין התראה
+  da: Ingen notifikation
+
 label_notifications:
   nl: Berichtgeving
   en: Notifications
   de: Benachrichtigungen
+  fr: Notifications
+  he: התראות
+  da: Notifikationer
+
 label_language:
   nl: Taal
   en: Language
   de: Sprache
   fr: Langue
+  he: שפה
+  da: Sprog
+
 label_system_language:
   nl: Systeemtaal
   en: System language
   de: Systemsprache
   fr: Langue du système
+  he: שפת המערכת
+  da: Systemsprog
+
 label_english:
   nl: Engels
   en: English
   de: Englisch
   fr: Anglais
+  he: אנגלית
+  da: Engelsk
+
 label_dutch:
   nl: Nederlands
   en: Dutch
   de: Niederländisch
   fr: Néerlandais
+  he: הולנדית
+  da: Hollandsk
+
 label_german:
   nl: Duits
   en: German
   de: Deutsch
   fr: Allemand
+  he: גרמנית
+  da: Tysk
+
 label_german_native:
   nl: Deutsch
   en: Deutsch
   de: Deutsch
   fr: Deutsch
+  he: דויטש
+  da: Deutsch
+
 label_french:
   nl: Frans
   en: French
   de: Französisch
   fr: Français
+  he: צרפתית
+  da: Fransk
+
 label_hebrew:
   nl: Hebreeuws
   en: Hebrew
   fr: Hébreu
   de: Hebräisch
-  he: תירִבעִ
+  he: עברית
 label_hebrew_native:
-  nl: תירִבעִ
-  en: תירִבעִ
-  fr: תירִבעִ
-  de: תירִבעִ
-  he: תירִבעִ
+  nl: עברית
+  en: עברית
+  fr: עברית
+  de: עברית
+  he: עברית
 label_arabic:
   nl: Arabisch
   en: Arabic
@@ -1177,11 +1214,15 @@ label_save_imp:
   en: Save
   de: Speichern
   fr: Enregistrez
+  he: שמור
+  da: Gem
 label_save:
-  nl: Bewaren
-  en: Save
   de: Speichern
+  en: Save
+  nl: Bewaren
   fr: Enregistrez
+  he: שמור
+  da: Gem
 label_job_title:
   nl: Functie
   en: Job title
