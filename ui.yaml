@@ -448,46 +448,73 @@ label_post:
   en: Send
   nl: Verstuur
   fr: Publier
+  he: שלח
+  da: Send
+
 label_leave_comment:
   de: Kommentar verfassen
   en: Leave a comment
   nl: Reageer
   fr: Commenter
+  he: השאר תגובה
+  da: Efterlad en kommentar
+
 label_sunday:
   en: Sunday
   nl: Zondag
   de: Sonntag
   fr: Dimanche
+  he: יום ראשון
+  da: Søndag
+
 label_monday:
   en: Monday
   nl: Maandag
   de: Montag
   fr: Lundi
+  he: יום שני
+  da: Mandag
+
 label_tuesday:
   en: Tuesday
-  nl: Maandag
+  nl: Dinsdag
   de: Dienstag
   fr: Mardi
+  he: יום שלישי
+  da: Tirsdag
+
 label_wednesday:
   en: Wednesday
-  nl: Maandag
+  nl: Woensdag
   de: Mittwoch
   fr: Mercredi
+  he: יום רביעי
+  da: Onsdag
+
 label_thursday:
   en: Thursday
-  nl: Maandag
+  nl: Donderdag
   de: Donnerstag
-  fr: jeudi
+  fr: Jeudi
+  he: יום חמישי
+  da: Torsdag
+
 label_friday:
   en: Friday
-  nl: Maandag
+  nl: Vrijdag
   de: Freitag
-  fr: vendredi
+  fr: Vendredi
+  he: יום שישי
+  da: Fredag
+
 label_saturday:
   en: Saturday
-  nl: Maandag
+  nl: Zaterdag
   de: Samstag
-  fr: samedi
+  fr: Samedi
+  he: שבת
+  da: Lørdag
+
 label_afghanistan:
   en: Afghanistan
 label_albania:
