@@ -1198,6 +1198,13 @@ label_english_native:
   en: English
   de: English
   fr: English
+label_danish_native:
+  nl: Dansk
+  en: Dansk
+  de: Dansk
+  fr: Dansk
+  he: Dansk
+  da: Dansk
 label_maintenance:
   nl: Onderhoud
   en: Maintenance
