@@ -445,11 +445,18 @@ label_unlike_imp:
   fr: N'aime pas
 label_post:
   de: Abschicken
-  en: Send
+  en: Post
+  nl: Posten
+  fr: Publier
+  he: שלח
+  da: Post
+label_post_imp:
+  de: Abschicken
+  en: Post
   nl: Verstuur
   fr: Publier
   he: שלח
-  da: Send
+  da: Post
 
 label_leave_comment:
   de: Kommentar verfassen
