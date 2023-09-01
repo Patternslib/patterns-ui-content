@@ -1,5 +1,61 @@
 # Label
 
+upload_files_imp:
+  nl: Bestanden uploaden
+  en: Upload files
+  fr: Télécharger fichiers
+  de: Dateien hochladen
+  it: Carica file
+  es: Subir archivos
+  pt: Fazer upload de arquivos
+  da: Upload filer
+  sv: Ladda upp filer
+  fi: Lataa tiedostot
+  el: Ανεβάστε αρχεία
+  lt: Įkelti failus
+  lv: Augšupielādēt failus
+  et: Laadi üles faile
+  mt: Tella' fajls
+  ga: Uaslódáil comhaid
+  hu: Fájlokat feltölteni
+  pl: Prześlij pliki
+  cs: Nahrát soubory
+  sk: Nahrať súbory
+  sl: Naloži datoteke
+  hr: Prenesi datoteke
+  ro: Încărcați fișiere
+  bg: Качи файлове
+  cy: Llwytho ffeiliau i fyny
+  he: העלה קבצים
+
+upload_file_imp:
+  nl: Bestand uploaden
+  en: Upload file
+  fr: Télécharger fichier
+  de: Datei hochladen
+  it: Carica file
+  es: Subir archivo
+  pt: Fazer upload de arquivo
+  da: Upload fil
+  sv: Ladda upp fil
+  fi: Lataa tiedosto
+  el: Ανεβάστε αρχείο
+  lt: Įkelti failą
+  lv: Augšupielādēt failu
+  et: Laadi üles fail
+  mt: Tella' fajl
+  ga: Uaslódáil comhad
+  hu: Fájl feltöltése
+  pl: Prześlij plik
+  cs: Nahrát soubor
+  sk: Nahrať súbor
+  sl: Naloži datoteko
+  hr: Prenesi datoteku
+  ro: Încărcați fișierul
+  bg: Качи файл
+  cy: Llwytho ffeil i fyny
+  he: העלה קובץ
+
 label_nisan:
   en: Nisan
   nl: Nisan
