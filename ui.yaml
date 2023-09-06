@@ -1,5 +1,33 @@
 # Label
 
+label_time_zone:
+  nl: Tijdzone
+  en: Time Zone
+  fr: Fuseau horaire
+  de: Zeitzone
+  it: Fuso orario
+  es: Zona horaria
+  pt: Fuso horário
+  da: Tidszone
+  sv: Tidszon
+  fi: Aikavyöhyke
+  el: Ζώνη ώρας
+  lt: Laiko zona
+  lv: Laika zona
+  et: Ajavöönd
+  mt: Żona ta' ħin
+  ga: Crios Ama
+  hu: Időzóna
+  pl: Strefa czasowa
+  cs: Časové pásmo
+  sk: Časové pásmo
+  sl: Časovni pas
+  hr: Vremenska zona
+  ro: Fus orar
+  bg: Часова зона
+  cy: Parth amser
+  he: אזור זמן
+
 upload_files_imp:
   nl: Bestanden uploaden
   en: Upload files
