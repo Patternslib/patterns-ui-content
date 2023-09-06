@@ -522,6 +522,63 @@ label_leave_comment:
   he: השאר תגובה
   da: Efterlad en kommentar
 
+label_from:
+  nl: Vanaf
+  en: From
+  fr: Depuis
+  de: Von
+  it: Da
+  es: Desde
+  pt: De
+  da: Fra
+  sv: Från
+  fi: Alkaen
+  el: Από
+  lt: Nuo
+  lv: No
+  et: Alates
+  mt: Minn
+  ga: Ó
+  hu: -tól/-től
+  pl: Od
+  cs: Od
+  sk: Od
+  sl: Od
+  hr: Od
+  ro: De la
+  bg: От
+  cy: O
+  he: מתאריך
+
+label_until:
+  nl: Tot
+  en: Until
+  fr: Jusqu'à
+  de: Bis
+  it: Fino a
+  es: Hasta
+  pt: Até
+  da: Indtil
+  sv: Till
+  fi: Asti
+  el: Έως
+  lt: Iki
+  lv: Līdz
+  et: Kuni
+  mt: Sa
+  ga: Go dtí
+  hu: -ig
+  pl: Do
+  cs: Do
+  sk: Do
+  sl: Do
+  hr: Do
+  ro: Până la
+  bg: До
+  cy: Hyd
+  he: עד תאריך
+
+
 label_sunday:
   en: Sunday
   nl: Zondag
