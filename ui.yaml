@@ -1306,13 +1306,63 @@ label_settings:
   en: Settings
   de: Einstellungen
   fr: Paramètres
+
 label_save_imp:
   nl: Bewaar
   en: Save
+  fr: Enregistrer
   de: Speichern
-  fr: Enregistrez
-  he: שמור
+  it: Salva
+  es: Guardar
+  pt: Salvar
   da: Gem
+  sv: Spara
+  fi: Tallenna
+  el: Αποθήκευση
+  lt: Išsaugoti
+  lv: Saglabāt
+  et: Salvesta
+  mt: Issejvja
+  ga: Sábháil
+  hu: Mentés
+  pl: Zapisz
+  cs: Uložit
+  sk: Uložiť
+  sl: Shrani
+  hr: Spremi
+  ro: Salvează
+  bg: Запази
+  cy: Arbed
+  he: שמור
+
+label_save_and_close_imp:
+  nl: Bewaar en sluit
+  en: Save and close
+  fr: Enregistrer et fermer
+  de: Speichern und schließen
+  it: Salva e chiudi
+  es: Guardar y cerrar
+  pt: Salvar e fechar
+  da: Gem og luk
+  sv: Spara och stäng
+  fi: Tallenna ja sulje
+  el: Αποθήκευση και κλείσιμο
+  lt: Išsaugoti ir uždaryti
+  lv: Saglabāt un aizvērt
+  et: Salvesta ja sulge
+  mt: Issejvja u agħlaq
+  ga: Sábháil agus dún
+  hu: Mentés és bezárás
+  pl: Zapisz i zamknij
+  cs: Uložit a zavřít
+  sk: Uložiť a zavrieť
+  sl: Shrani in zapri
+  hr: Spremi i zatvori
+  ro: Salvează și închide
+  bg: Запази и затвори
+  cy: Arbed a chau
+  he: שמור וסגור
+
 label_save:
   de: Speichern
   en: Save
