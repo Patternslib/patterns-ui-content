@@ -330,16 +330,73 @@ label_table:
   en: Table
   fr: Tableau
   de: Tabelle
+
 label_paste:
   nl: Plakken
   en: Paste
   fr: Coller
   de: Einsetzen
+
 label_paste_imp:
   nl: Plak
   en: Paste
   fr: Coller
   de: Einsetzen
+
+label_copy_imp:
+  en: "Copy"
+  bg: "Копирай"
+  cs: "Kopírovat"
+  da: "Kopieer"
+  de: "Kopieren"
+  et: "Kopeeri"
+  el: "Αντιγραφή"
+  es: "Copiar"
+  fi: "Kopioi"
+  fr: "Copier"
+  ga: "Cóipeáil"
+  hr: "Kopiraj"
+  hu: "Másolás"
+  it: "Copia"
+  lt: "Kopijuoti"
+  lv: "Kopēt"
+  mt: "Kkopja"
+  nl: "Kopieer"
+  pl: "Kopiuj"
+  pt: "Copiar"
+  ro: "Copiați"
+  sk: "Kopírovať"
+  sl: "Kopiraj"
+  sv: "Kopiera"
+  he: "העתק"
+
+label_cut_imp:
+  en: "Cut"
+  bg: "Изрежи"
+  cs: "Vyjmout"
+  da: "Klip"
+  de: "Ausschneiden"
+  et: "Lõika"
+  el: "Αποκοπή"
+  es: "Cortar"
+  fi: "Leikkaa"
+  fr: "Couper"
+  ga: "Gearr"
+  hr: "Izreži"
+  hu: "Kivág"
+  it: "Taglia"
+  lt: "Iškirpti"
+  lv: "Izgriezt"
+  mt: "Aqta'"
+  nl: "Knip"
+  pl: "Wytnij"
+  pt: "Cortar"
+  ro: "Tăiați"
+  sk: "Vystrihnúť"
+  sl: "Izreži"
+  sv: "Klipp ut"
+  he: "גזור"
+
 label_continue:
   bg: Напред
   ca: Següent
