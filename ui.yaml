@@ -397,6 +397,33 @@ label_cut_imp:
   sv: "Klipp ut"
   he: "גזור"
 
+label_move_imp:
+  en: "Move"
+  bg: "Премести"
+  cs: "Přesunout"
+  da: "Flyt"
+  de: "Verschieben"
+  et: "Liiguta"
+  el: "Μετακίνηση"
+  es: "Mover"
+  fi: "Siirrä"
+  fr: "Déplacer"
+  ga: "Bog"
+  hr: "Pomakni"
+  hu: "Mozgat"
+  it: "Sposta"
+  lt: "Perkelti"
+  lv: "Pārvietot"
+  mt: "Imxu"
+  nl: "Verplaats"
+  pl: "Przenieś"
+  pt: "Mover"
+  ro: "Mutați"
+  sk: "Presunúť"
+  sl: "Premakni"
+  sv: "Flytta"
+  he: "העבר" 
+
 label_continue:
   bg: Напред
   ca: Següent
