@@ -1909,7 +1909,7 @@ label_colour_dark_olive_green:
 
 label_colour_dark_orchid:
   en: Dark Orchid
-  nl: Donkere orchidee
+  nl: Donker orchidee
   fr: Orchidée Foncé
   de: Dunkle Orchidee
   he: אורכידיאה כהה
@@ -1958,9 +1958,9 @@ label_colour_dim_gray:
 
 label_colour_dodger_blue:
   en: Dodger Blue
-  nl: Ontwijkend blauw
-  fr: Bleu Dodgeur
-  de: Ausweichendes Blau
+  nl: Amerikaans blauw
+  fr: Bleu américain
+  de: Amerikanisches Blau
   he: כחול דודג'
 
 label_colour_forest_green:
@@ -2014,7 +2014,7 @@ label_colour_medium_violet_red:
 
 label_colour_midnight_blue:
   en: Midnight Blue
-  nl: Middernachtsblauw
+  nl: Middernachtblauw
   fr: Bleu Minuit
   de: Mitternachtsblau
   he: כחול חצות
