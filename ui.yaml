@@ -1693,3 +1693,322 @@ label_watching:
   en: Watching
   de: "Folgen beenden"
   fr: "En train de regarder"
+
+label_colour:
+  en: "Colour"
+  bg: "Цвят"
+  cs: "Barva"
+  da: "Farve"
+  de: "Farbe"
+  et: "Värv"
+  el: "Χρώμα"
+  es: "Color"
+  fi: "Väri"
+  fr: "Couleur"
+  ga: "Dath"
+  hr: "Boja"
+  hu: "Szín"
+  it: "Colore"
+  lt: "Spalva"
+  lv: "Krāsa"
+  mt: "Kulur"
+  nl: "Kleur"
+  pl: "Kolor"
+  pt: "Cor"
+  ro: "Culoare"
+  sk: "Farba"
+  sl: "Barva"
+  sv: "Färg"
+  he: "צבע"
+
+label_colour_black:
+  en: Black
+  nl: Zwart
+  fr: Noir
+  de: Schwarz
+  he: שחור
+label_colour_blue:
+  en: Blue
+  nl: Blauw
+  fr: Bleu
+  de: Blau
+  he: כחול
+label_colour_brown:
+  en: Brown
+  nl: Bruin
+  fr: Marron
+  de: Braun
+  he: חום
+label_colour_cadet_blue:
+  en: Cadet Blue
+  nl: Kadetblauw
+  fr: Bleu Cadet
+  de: Kadettenblau
+  he: כחול קדט
+label_colour_crimson:
+  en: Crimson
+  nl: Karmozijn
+  fr: Cramoisi
+  de: Karmesinrot
+  he: ארגמן
+label_colour_dark_cyan:
+  en: Dark Cyan
+  nl: Donkercyaan
+  fr: Cyan Foncé
+  de: Dunkles Cyan
+  he: תכלת כהה
+
+label_colour_black:
+  en: Black
+  nl: Zwart
+  fr: Noir
+  de: Schwarz
+  he: שחור
+label_colour_blue:
+  en: Blue
+  nl: Blauw
+  fr: Bleu
+  de: Blau
+  he: כחול
+label_colour_brown:
+  en: Brown
+  nl: Bruin
+  fr: Marron
+  de: Braun
+  he: חום
+label_colour_cadet_blue:
+  en: Cadet Blue
+  nl: Kadetblauw
+  fr: Bleu Cadet
+  de: Kadettenblau
+  he: כחול קדט
+label_colour_crimson:
+  en: Crimson
+  nl: Karmozijn
+  fr: Cramoisi
+  de: Karmesinrot
+  he: ארגמן
+label_colour_dark_cyan:
+  en: Dark Cyan
+  nl: Donkercyaan
+  fr: Cyan Foncé
+  de: Dunkles Cyan
+  he: תכלת כהה
+
+label_colour_dark_golden_rod:
+  en: Dark Golden Rod
+  nl: Donker solidago
+  fr: Vieil Or
+  de: Dunkle Goldrute
+  he: זהב כהה
+  
+label_colour_dark_green:
+  en: Dark Green
+  nl: Donkergroen
+  fr: Vert Foncé
+  de: Dunkelgrün
+  he: ירוק כהה
+
+label_colour_dark_magenta:
+  en: Dark Magenta
+  nl: Donkermagenta
+  fr: Magenta Foncé
+  de: Dunkelmagenta
+  he: מגנטה כהה
+
+label_colour_dark_olive_green:
+  en: Dark Olive Green
+  nl: Donker olijfgroen
+  fr: Vert Olive Foncé
+  de: Dunkelolivgrün
+  he: ירוק זית כהה
+
+label_colour_dark_orchid:
+  en: Dark Orchid
+  nl: Donkere orchidee
+  fr: Orchidée Foncé
+  de: Dunkle Orchidee
+  he: אורכידיאה כהה
+
+label_colour_dark_slate_gray:
+  en: Dark Slate Gray
+  nl: Donker Leigrijs
+  fr: Gris Ardoise Foncé
+  de: Dunkles Schiefergrau
+  he: אפור אבן גג כהה
+
+label_colour_dark_turquoise:
+  en: Dark Turquoise
+  nl: Donker turkoois
+  fr: Turquoise Foncé
+  de: Dunkeltürkis
+  he: טורקיז כהה
+
+label_colour_darkslate_blue:
+  en: Darkslate Blue
+  nl: Donker leiblauw
+  fr: Bleu Ardoise Foncé
+  de: Dunkelschieferblau
+  he: כחול אבן גג כהה
+
+label_colour_deep_pink:
+  en: Deep Pink
+  nl: Dieproze
+  fr: Rose Profond
+  de: Tiefrosa
+  he: ורוד עמוק
+
+label_colour_deep_skyblue:
+  en: Deep Skyblue
+  nl: Diep hemelsblauw
+  fr: Bleu Ciel Profond
+  de: Tiefes Himmelblau
+  he: כחול שמים עמוק
+
+label_colour_dim_gray:
+  en: Dim Gray
+  nl: Zacht grijs
+  fr: Gris Terne
+  de: Gedämpftes Grau
+  he: אפור כהה
+
+label_colour_dodger_blue:
+  en: Dodger Blue
+  nl: Ontwijkend blauw
+  fr: Bleu Dodgeur
+  de: Ausweichendes Blau
+  he: כחול דודג'
+
+label_colour_forest_green:
+  en: Forest Green
+  nl: Bosgroen
+  fr: Vert Forêt
+  de: Waldgrün
+  he: ירוק יער
+
+label_colour_fuchsia:
+  en: Fuchsia
+  nl: Fuchsia
+  fr: Fuchsia
+  de: Fuchsia
+  he: פוקסיה
+
+label_colour_indian_red:
+  en: Indian Red
+  nl: Indiaas rood
+  fr: Rouge Indien
+  de: Indischrot
+  he: אדום הודי
+
+label_colour_indigo:
+  en: Indigo
+  nl: Indigo
+  fr: Indigo
+  de: Indigo
+  he: אינדיגו
+
+label_colour_light_sea_green:
+  en: Light Sea Green
+  nl: Licht zeegroen
+  fr: Vert Mer Clair
+  de: Helles Seegrün
+  he: ירוק ים קל
+
+label_colour_maroon:
+  en: Maroon
+  nl: Kastanjebruin
+  fr: Marron
+  de: Kastanienbraun
+  he: חום כהה
+
+label_colour_medium_violet_red:
+  en: Medium Violet Red
+  nl: Middelmatig violetrood
+  fr: Rouge Violet Moyen
+  de: Mittleres Violettrot
+  he: אדום-סגול בינוני
+
+label_colour_midnight_blue:
+  en: Midnight Blue
+  nl: Middernachtsblauw
+  fr: Bleu Minuit
+  de: Mitternachtsblau
+  he: כחול חצות
+
+label_colour_olive:
+  en: Olive
+  nl: Olijfgroen
+  fr: Olive
+  de: Olivgrün
+  he: זית
+
+label_colour_olive_drab:
+  en: Olive Drab
+  nl: Olijfgrijs
+  fr: Olive Terne
+  de: Olivgrau
+  he: זית מט
+
+label_colour_pale_violet_red:
+  en: Pale Violet Red
+  nl: Licht violetrood
+  fr: Rouge Violet Pâle
+  de: Blassviolettrot
+  he: אדום-סגול בהיר
+
+label_colour_purple:
+  en: Purple
+  nl: Paars
+  fr: Pourpre
+  de: Lila
+  he: סגול
+
+label_colour_red:
+  en: Red
+  nl: Rood
+  fr: Rouge
+  de: Rot
+  he: אדום
+
+label_colour_royal_blue:
+  en: Royal Blue
+  nl: Koningsblauw
+  fr: Bleu Royal
+  de: Königsblau
+  he: כחול מלכותי
+
+label_colour_sea_green:
+  en: Sea Green
+  nl: Zeegroen
+  fr: Vert Mer
+  de: Seegrün
+  he: ירוק ים
+
+label_colour_sienna:
+  en: Sienna
+  nl: Sienna
+  fr: Terre de Sienne
+  de: Siena
+  he: סיינה
+
+label_colour_slate_blue:
+  en: Slate Blue
+  nl: Lei-blauw
+  fr: Bleu Ardoise
+  de: Schieferblau
+  he: כחול צפחה
+
+label_colour_steel_blue:
+  en: Steel Blue
+  nl: Staalblauw
+  fr: Bleu Acier
+  de: Stahlblau
+  he: כחול פלדה
+
+label_colour_teal:
+  en: Teal
+  nl: Smaragdgroen
+  fr: Sarcelle
+  de: Krickentenblau
+  he: כחול-ירוק (טיל)
+
