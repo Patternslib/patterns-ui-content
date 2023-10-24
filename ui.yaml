@@ -242,8 +242,8 @@ label_header_level_1:
   fr: En-tête niveau 1
 label_header_level_2:
   nl: Kop, niveau 2
-  en: Überschrift 2
-  de: Kopfzeile, Ebene 2
+  en: Header level 2
+  de: Überschrift 2
   fr: En-tête niveau 2
 label_header_level_3:
   nl: Kop, niveau 3
