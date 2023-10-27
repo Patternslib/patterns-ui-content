@@ -1,5 +1,9 @@
 # Label
 
+label_loading:
+  nl: Laden
+  en: Loading
+
 label_time_zone:
   nl: Tijdzone
   en: Time Zone
