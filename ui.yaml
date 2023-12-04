@@ -1299,6 +1299,61 @@ label_monthly:
   en: Monthly
   de: Monatlich
   fr: Mensuel
+
+label_quarterly:
+  en: Quarterly
+  nl: Per kwartaal
+  fr: Trimestriel
+  de: Vierteljährlich
+  it: Trimestrale
+  es: Trimestral
+  pt: Trimestral
+  da: Kvartalsvis
+  sv: Kvartalsvis
+  fi: Neljännesvuosittain
+  el: Τριμηνιαία
+  cs: Čtvrtletně
+  et: Kvartaalselt
+  hr: Tromjesečno
+  hu: Negyedévente
+  lt: Ketvirtiniais
+  lv: Ceturksnī
+  mt: Kull kwart
+  pl: Kwartalnie
+  ro: Trimestrial
+  sk: Štvrťročne
+  sl: Četrtletno
+  bg: На тримесечие
+  ga: Gach ráithe
+  he: רבעוני
+
+label_never:
+  en: Never
+  bg: Никога
+  cs: Nikdy
+  da: Aldrig
+  de: Nie
+  et: Mitte kunagi
+  el: Ποτέ
+  es: Nunca
+  fi: Ei koskaan
+  fr: Jamais
+  ga: Riamh
+  hr: Nikada
+  hu: Soha
+  it: Mai
+  lt: Niekada
+  lv: Nekad
+  mt: Qatt
+  nl: Nooit
+  pl: Nigdy
+  pt: Nunca
+  ro: Niciodată
+  sk: Nikdy
+  sl: Nikoli
+  sv: Aldrig
+  he: לעולם לא  
+
 label_contrast:
   nl: Contrast
   en: Contrast
