@@ -1397,10 +1397,29 @@ label_notifications:
 label_language:
   nl: Taal
   en: Language
-  de: Sprache
   fr: Langue
-  he: שפה
+  de: Sprache
+  it: Lingua
+  es: Idioma
+  pt: Idioma
+  pl: Język
+  sv: Språk
   da: Sprog
+  fi: Kieli
+  cs: Jazyk
+  el: Γλώσσα
+  hu: Nyelv
+  ro: Limbă
+  bg: Език
+  hr: Jezik
+  sk: Jazyk
+  sl: Jezik
+  lt: Kalba
+  lv: Valoda
+  et: Keel
+  mt: Lingwa
+  ga: Teanga
+  he: שפה
 
 label_system_language:
   nl: Systeemtaal
