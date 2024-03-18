@@ -1461,6 +1461,14 @@ label_german_native:
   he: Deutsch
   da: Deutsch
 
+label_italian_native:
+  nl: Italiano
+  en: Italiano
+  de: Italiano
+  fr: Italiano
+  he: Italiano
+  da: Italiano
+
 label_french:
   nl: Frans
   en: French
@@ -1487,12 +1495,35 @@ label_arabic:
   fr: Arabe
   de: Arabisch
   he: תירִבעִ
+
 label_arabic_native:
-  nl: يبرع
-  en: يبرع
-  fr: يبرع
-  de: يبرع
-  he: يبرع
+  nl: العربية
+  en: العربية
+  fr: العربية
+  de: العربية
+  he: العربية
+
+label_farsi_native:
+  nl: فارسی
+  en: فارسی
+  fr: فارسی
+  de: فارسی
+  he: فارسی
+
+label_turkish_native:
+  nl: Türkçe
+  en: Türkçe
+  fr: Türkçe
+  de: Türkçe
+  he: Türkçe
+
+label_greek_native:
+  nl: Ελληνικά
+  en: Ελληνικά
+  fr: Ελληνικά
+  de: Ελληνικά
+  he: Ελληνικά
+
 label_french_native:
   nl: Français
   en: Français
