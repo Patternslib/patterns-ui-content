@@ -3,6 +3,58 @@
 label_loading:
   nl: Laden
   en: Loading
+  fr: Chargement
+  de: Laden
+  it: Caricamento
+  es: Cargando
+  pt: Carregando
+  da: Indlæser
+  sv: Laddar
+  fi: Lataa
+  el: Φόρτωση
+  lt: Kraunama
+  lv: Lejupielādēt
+  et: Laadimine
+  mt: Tella'
+  ga: Íoslódáil
+  hu: Feltöltés
+  pl: Prześlij
+  cs: Nahrát
+  sk: Nahrať
+  sl: Naloži
+  hr: Učitaj
+  ro: Încărcați
+  bg: Качете
+  cy: Uwchlwytho
+  he: העלה
+
+label_upload_imp:
+  nl: Uploaden
+  en: Upload
+  fr: Téléchargez
+  de: Hochladen
+  it: Carica
+  es: Subir
+  pt: Carregar
+  da: Upload
+  sv: Ladda upp
+  fi: Lataa
+  el: Ανεβάστε
+  lt: Įkelti
+  lv: Augšupielādēt
+  et: Laadi üles
+  mt: Tella'
+  ga: Uaslódáil
+  hu: Feltöltés
+  pl: Prześlij
+  cs: Nahrát
+  sk: Nahrať
+  sl: Naloži
+  hr: Učitaj
+  ro: Încărcați
+  bg: Качете
+  cy: Uwchlwytho
+  he: העלה
 
 label_time_zone:
   nl: Tijdzone
