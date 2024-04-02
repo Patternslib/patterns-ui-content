@@ -1,4 +1,29 @@
-# Label
+label_on:
+  nl: Aan
+  en: 'On'
+  fr: Sur
+  de: Auf
+  it: Su
+  es: En
+  pt: Em
+  pl: W
+  sv: På
+  da: På
+  fi: Päällä
+  cs: Na
+  el: Σε
+  hu: Rajta
+  ro: Pe
+  bg: На
+  hr: Na
+  sk: Na
+  sl: Na
+  lt: Ant
+  lv: Uz
+  et: Peal
+  mt: Fuq
+  ga: Ar
+  he: על
 
 label_loading:
   nl: Laden
