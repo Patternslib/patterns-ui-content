@@ -1,3 +1,115 @@
+label_remove_imp:
+  nl: Verwijder
+  en: Remove
+  fr: Supprimer
+  de: Entfernen
+  it: Rimuovi
+  es: Eliminar
+  pt: Remover
+  da: Fjern
+  sv: Ta bort
+  fi: Poista
+  el: Αφαίρεση
+  lt: Pašalinti
+  lv: Noņemt
+  et: Eemalda
+  mt: Neħħi
+  ga: Bain
+  hu: Törlés
+  pl: Usuń
+  cs: Odebrat
+  sk: Odstrániť
+  sl: Odstrani
+  hr: Ukloni
+  ro: Eliminați
+  bg: Премахни
+  cy: Tynnu
+  he: מחק
+
+label_rule:
+  nl: Regel
+  en: Rule
+  fr: Règle
+  de: Regel
+  it: Regola
+  es: Regla
+  pt: Regra
+  da: Regel
+  sv: Regel
+  fi: Sääntö
+  el: Κανόνας
+  lt: Taisyklė
+  lv: Noteikums
+  et: Reegel
+  mt: Regola
+  ga: Rial
+  hu: Szabály
+  pl: Reguła
+  cs: Pravidlo
+  sk: Pravidlo
+  sl: Pravilo
+  hr: Pravilo
+  ro: Regulă
+  bg: Правило
+  cy: Rheol
+  he: כלל
+
+label_name:
+  nl: Naam
+  en: Name
+  fr: Nom
+  de: Name
+  it: Nome
+  es: Nombre
+  pt: Nome
+  da: Navn
+  sv: Namn
+  fi: Nimi
+  el: Όνομα
+  lt: Vardas
+  lv: Vārds
+  et: Nimi
+  mt: Isem
+  ga: Ainm
+  hu: Név
+  pl: Nazwa
+  cs: Jméno
+  sk: Meno
+  sl: Ime
+  hr: Ime
+  ro: Nume
+  bg: Име
+  cy: Enw
+  he: שם
+
+label_value: 
+  nl: Waarde
+  en: Value
+  fr: Valeur
+  de: Wert
+  it: Valore
+  es: Valor
+  pt: Valor
+  da: Værdi
+  sv: Värde
+  fi: Arvo
+  el: Τιμή
+  lt: Vertė
+  lv: Vērtība
+  et: Väärtus
+  mt: Valur
+  ga: Luach
+  hu: Érték
+  pl: Wartość
+  cs: Hodnota
+  sk: Hodnota
+  sl: Vrednost
+  hr: Vrijednost
+  ro: Valoare
+  bg: Стойност
+  cy: Gwerth
+  he: ערך
+
 label_on:
   nl: Aan
   en: 'On'
@@ -1234,11 +1346,6 @@ label_cancel_imp:
   fr: Annuler
 label_remove:
   nl: Verwijderen
-  en: Remove
-  fr: Supprimer
-  de: Entfernen
-label_remove_imp:
-  nl: Verwijder
   en: Remove
   fr: Supprimer
   de: Entfernen
