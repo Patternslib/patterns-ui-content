@@ -26,6 +26,62 @@ label_remove_imp:
   cy: Tynnu
   he: מחק
 
+label_attachment: 
+  nl: Bijlage
+  en: Attachment
+  fr: Pièce jointe
+  de: Anhang
+  it: Allegato
+  es: Adjunto
+  pt: Anexo
+  da: Vedhæftning
+  sv: Bilaga
+  fi: Liite
+  el: Συνημμένο
+  lt: Priedas
+  lv: Pielikums
+  et: Manuse
+  mt: Allegat
+  ga: Ceangal
+  hu: Melléklet
+  pl: Załącznik
+  cs: Příloha
+  sk: Príloha
+  sl: Priloga
+  hr: Prilog
+  ro: Atașament
+  bg: Прикачен файл
+  cy: Atodiad
+  he: קובץ מצורף
+
+label_file:
+  nl: Bestand
+  en: File
+  fr: Fichier
+  de: Datei
+  it: File
+  es: Archivo
+  pt: Arquivo
+  da: Fil
+  sv: Fil
+  fi: Tiedosto
+  el: Αρχείο
+  lt: Failas
+  lv: Fails
+  et: Fail
+  mt: Fajl
+  ga: Comhad
+  hu: Fájl
+  pl: Plik
+  cs: Soubor
+  sk: Súbor
+  sl: Datoteka
+  hr: Datoteka
+  ro: Fișier
+  bg: Файл
+  cy: Ffeil
+  he: קובץ
+
 label_rule:
   nl: Regel
   en: Rule
