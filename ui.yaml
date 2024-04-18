@@ -26,6 +26,34 @@ label_remove_imp:
   cy: Tynnu
   he: מחק
 
+label_summary:
+  nl: Samenvatting
+  en: Summary
+  fr: Résumé
+  de: Zusammenfassung
+  it: Riassunto
+  es: Resumen
+  pt: Resumo
+  da: Resumé
+  sv: Sammanfattning
+  fi: Yhteenveto
+  el: Περίληψη
+  lt: Santrauka
+  lv: Kopsavilkums
+  et: Kokkuvõte
+  mt: Riassunt
+  ga: Achoimre
+  hu: Összefoglalás
+  pl: Podsumowanie
+  cs: Shrnutí
+  sk: Zhrnutie
+  sl: Povzetek
+  hr: Sažetak
+  ro: Rezumat
+  bg: Резюме
+  cy: Crynodeb
+  he: תקציר
+
 label_attachment: 
   nl: Bijlage
   en: Attachment
