@@ -26,6 +26,34 @@ label_remove_imp:
   cy: Tynnu
   he: מחק
 
+label_caption:
+  nl: Bijschrift
+  en: Caption
+  fr: Légende
+  de: Beschriftung
+  it: Didascalia
+  es: Subtítulo
+  pt: Legenda
+  da: Billedtekst
+  sv: Bildtext
+  fi: Kuvateksti
+  el: Λεζάντα
+  lt: Antraštė
+  lv: Virsraksts
+  et: Pildiallkiri
+  mt: Kaptan
+  ga: Ríomh
+  hu: Felirat
+  pl: Podpis
+  cs: Popisek
+  sk: Popis
+  sl: Podpis
+  hr: Natpis
+  ro: Legendă
+  bg: Подпис
+  cy: Capsiwn
+  he: כיתוב
+
 label_summary:
   nl: Samenvatting
   en: Summary
