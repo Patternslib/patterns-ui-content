@@ -26,6 +26,35 @@ label_remove_imp:
   cy: Tynnu
   he: מחק
 
+message_this_action_cannot_be_reverted:
+    nl: Deze handeling kan niet ongedaan gemaakt worden.
+    en: This action cannot be reverted.
+    fr: Cette action ne peut pas être annulée.
+    de: Diese Aktion kann nicht rückgängig gemacht werden.
+    it: Questa azione non può essere annullata.
+    es: Esta acción no se puede deshacer.
+    pt: Esta ação não pode ser revertida.
+    sv: Denna åtgärd kan inte ångras.
+    da: Denne handling kan ikke fortrydes.
+    fi: Tätä toimintoa ei voi peruuttaa.
+    et: Seda toimingut ei saa tagasi võtta.
+    lv: Šī darbība nevar tikt atsaukta.
+    lt: Šis veiksmas negali būti atšauktas.
+    mt: Din azzjoni ma tistax tkun inverżata.
+    pl: Ta czynność nie może zostać cofnięta.
+    cs: Tato akce nemůže být vrácena zpět.
+    sk: Táto akcia nemôže byť vrátená späť.
+    hu: Ez a művelet nem vonható vissza.
+    ro: Această acțiune nu poate fi anulată.
+    bg: Това действие не може да бъде отменено.
+    el: Αυτή η ενέργεια δεν μπορεί να αναιρεθεί.
+    hr: Ova radnja se ne može poništiti.
+    sl: Ta ukrep se ne more razveljaviti.
+    ga: Ní féidir an gníomh seo a chur siar.
+    cy: Ni ellir dadwneud y weithred hon.
+    mt: Din azzjoni ma tistax tkun inverżata.
+    he: פעולה זו אינה ניתנת לביטול.
+
 label_caption:
   nl: Bijschrift
   en: Caption
