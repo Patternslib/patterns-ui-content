@@ -26,6 +26,33 @@ label_remove_imp:
   cy: Tynnu
   he: מחק
 
+label_duplicate_imp:
+  en: Duplicate
+  fr: Dupliquez
+  de: Duplizieren
+  es: Duplica
+  it: Duplica
+  pt: Duplica
+  sv: Duplicera
+  da: Dupliker
+  fi: Kaksoiskappale
+  et: Duplikaat
+  lv: Dublēt
+  lt: Dubliuokite
+  mt: Duplikat
+  ga: Déanaigh dublála
+  el: Διπλασιάστε
+  bg: Дублирайте
+  ro: Duplicați
+  hu: Kettőz
+  cs: Duplikujte
+  sk: Duplikujte
+  sl: Podvoji
+  hr: Duplicirajte
+  pl: Duplikuj
+  nl: Dupliceer
+  he: כפול
+
 message_this_action_cannot_be_reverted:
     nl: Deze handeling kan niet ongedaan gemaakt worden.
     en: This action cannot be reverted.
