@@ -138,6 +138,34 @@ label_caption:
   cy: Capsiwn
   he: כיתוב
 
+label_submit_imp:
+  en: Submit
+  nl: Verstuur
+  fr: Soumettez
+  de: Absenden
+  it: Invia
+  es: Envía
+  pt: Envia
+  pl: Zatwierdź
+  sv: Skicka in
+  da: Indsend
+  fi: Lähetä
+  cs: Odeslat
+  el: Υποβάλετε
+  hu: Küldje be
+  ro: Trimiteți
+  bg: Изпратете
+  hr: Pošaljite
+  sk: Odoslať
+  sl: Oddajte
+  lt: Pateikite
+  lv: Iesniedziet
+  et: Esitage
+  mt: Ibgħat
+  ga: Cuir isteach
+  he: שלח
+
+
 label_summary:
   nl: Samenvatting
   en: Summary
