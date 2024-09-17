@@ -26,6 +26,34 @@ label_remove_imp:
   cy: Tynnu
   he: מחק
 
+label_pages:
+  nl: Pagina's
+  en: Pages
+  fr: Pages
+  de: Seiten
+  it: Pagine
+  es: Páginas
+  pt: Páginas
+  da: Sider
+  sv: Sidor
+  fi: Sivut
+  el: Σελίδες
+  lt: Puslapiai
+  lv: Lappuses
+  et: Leheküljed
+  mt: Paġni
+  ga: Leathanaigh
+  hu: Oldalak
+  pl: Strony
+  cs: Stránky
+  sk: Strany
+  sl: Strani
+  hr: Stranice
+  ro: Pagini
+  bg: Страници
+  cy: Tudalennau
+  he: דפים
+  
 label_dialogue_panel:
   en: Dialogue panel
   nl: Dialoogpaneel
