@@ -26,6 +26,33 @@ label_remove_imp:
   cy: Tynnu
   he: מחק
 
+label_patterns_pn:
+  en: Patterns
+  nl: Patterns
+  de: Patterns
+  fr: Patterns
+  it: Patterns
+  es: Patterns
+  pt: Patterns
+  pl: Patterns
+  sv: Patterns
+  da: Patterns
+  fi: Patterns
+  cs: Patterns
+  el: Patterns
+  hu: Patterns
+  ro: Patterns
+  bg: Patterns
+  hr: Patterns
+  sk: Patterns
+  sl: Patterns
+  lt: Patterns
+  lv: Patterns
+  et: Patterns
+  mt: Patterns
+  ga: Patterns
+  he: פאטרנס
+
 label_pages:
   nl: Pagina's
   en: Pages
@@ -1611,6 +1638,7 @@ label_delete_imp:
   en: Delete
   fr: Effacer
   de: Löschen
+
 label_no:
   bg: Не
   ca: 'No'
@@ -1633,21 +1661,47 @@ label_no:
   'no': ''
   pt: Não
   sl: Ne
+
 label_yes:
   nl: Ja
   en: Yes
   fr: Oui
   de: Ja
+
 label_time:
   nl: Tijd
   en: Time
   fr: Heure
   de: Zeit
+
 label_date:
   nl: Datum
   en: Date
   fr: Date
   de: Datum
+  it: Data
+  es: Fecha
+  pt: Data
+  da: Dato
+  sv: Datum
+  fi: Päivämäärä
+  el: Ημερομηνία
+  lt: Data
+  lv: Datums
+  et: Kuupäev
+  mt: Data
+  ga: Dáta
+  hu: Dátum
+  pl: Data
+  cs: Datum
+  sk: Dátum
+  sl: Datum
+  hr: Datum
+  ro: Dată
+  bg: Дата
+  cy: Dyddiad
+  he: תאריך
+
 label_previous:
   bg: Назад
   ca: Anterior
