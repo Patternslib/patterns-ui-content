@@ -1,3 +1,165 @@
+label_pdf_file:
+  en: PDF file
+  nl: PDF-document
+  de: PDF-Datei
+  fr: Fichier PDF
+  it: File PDF
+  es: Archivo PDF
+  pt: Ficheiro PDF
+  pl: Plik PDF
+  sv: PDF-fil
+  da: PDF-fil
+  fi: PDF-tiedosto
+  cs: PDF soubor
+  el: Αρχείο PDF
+  hu: PDF fájl
+  ro: Fișier PDF
+  bg: PDF файл
+  hr: PDF datoteka
+  sk: PDF súbor
+  sl: PDF datoteka
+  lt: PDF failas
+  lv: PDF fails
+  et: PDF fail
+  mt: Fajl PDF
+  ga: Comhad PDF
+  he: קובץ PDF
+
+label_zip_file:
+  en: ZIP file
+  nl: ZIP-bestand
+  de: ZIP-Datei
+  fr: Fichier ZIP
+  it: File ZIP
+  es: Archivo ZIP
+  pt: Ficheiro ZIP
+  pl: Plik ZIP
+  sv: ZIP-fil
+  da: ZIP-fil
+  fi: ZIP-tiedosto
+  cs: ZIP soubor
+  el: Αρχείο ZIP
+  hu: ZIP fájl
+  ro: Fișier ZIP
+  bg: ZIP файл
+  hr: ZIP datoteka
+  sk: ZIP súbor
+  sl: ZIP datoteka
+  lt: ZIP failas
+  lv: ZIP fails
+  et: ZIP fail
+  mt: Fajl ZIP
+  ga: Comhad ZIP
+  he: קובץ ZIP
+
+label_compressed_file:
+  en: Compressed file
+  nl: Gecomprimeerd bestand
+  de: Komprimierte Datei
+  fr: Fichier compressé
+  it: File compresso
+  es: Archivo comprimido
+  pt: Ficheiro comprimido
+  pl: Skompresowany plik
+  sv: Komprimerad fil
+  da: Komprimeret fil
+  fi: Pakattu tiedosto
+  cs: Komprimovaný soubor
+  el: Συμπιεσμένο αρχείο
+  hu: Tömörített fájl
+  ro: Fișier comprimat
+  bg: Компресиран файл
+  hr: Komprimirana datoteka
+  sk: Komprimovaný súbor
+  sl: Stisnjena datoteka
+  lt: Suspaustas failas
+  lv: Saspiests fails
+  et: Tihendatud fail
+  mt: Fajl ikkumpremut
+  ga: Comhad comhbhrúite
+  he: קובץ מכווץ
+
+label_word_file:
+  en: Word file
+  nl: Word-document
+  de: Word-Datei
+  fr: Fichier Word
+  it: File Word
+  es: Archivo Word
+  pt: Ficheiro Word
+  pl: Plik Word
+  sv: Word-fil
+  da: Word-fil
+  fi: Word-tiedosto
+  cs: Word soubor
+  el: Αρχείο Word
+  hu: Word fájl
+  ro: Fișier Word
+  bg: Word файл
+  hr: Word datoteka
+  sk: Word súbor
+  sl: Word datoteka
+  lt: Word failas
+  lv: Word fails
+  et: Word fail
+  mt: Fajl Word
+  ga: Comhad Word
+  he: קובץ Word
+
+label_excel_file:
+  en: Excel file
+  nl: Excel-document
+  de: Excel-Datei
+  fr: Fichier Excel
+  it: File Excel
+  es: Archivo Excel
+  pt: Ficheiro Excel
+  pl: Plik Excel
+  sv: Excel-fil
+  da: Excel-fil
+  fi: Excel-tiedosto
+  cs: Excel soubor
+  el: Αρχείο Excel
+  hu: Excel fájl
+  ro: Fișier Excel
+  bg: Excel файл
+  hr: Excel datoteka
+  sk: Excel súbor
+  sl: Excel datoteka
+  lt: Excel failas
+  lv: Excel fails
+  et: Excel fail
+  mt: Fajl Excel
+  ga: Comhad Excel
+  he: קובץ Excel
+
+label_powerpoint_file:
+  en: PowerPoint file
+  nl: PowerPoint-document
+  de: PowerPoint-Datei
+  fr: Fichier PowerPoint
+  it: File PowerPoint
+  es: Archivo PowerPoint
+  pt: Ficheiro PowerPoint
+  pl: Plik PowerPoint
+  sv: PowerPoint-fil
+  da: PowerPoint-fil
+  fi: PowerPoint-tiedosto
+  cs: PowerPoint soubor
+  el: Αρχείο PowerPoint
+  hu: PowerPoint fájl
+  ro: Fișier PowerPoint
+  bg: PowerPoint файл
+  hr: PowerPoint datoteka
+  sk: PowerPoint súbor
+  sl: PowerPoint datoteka
+  lt: PowerPoint failas
+  lv: PowerPoint fails
+  et: PowerPoint fail
+  mt: Fajl PowerPoint
+  ga: Comhad PowerPoint
+  he: קובץ PowerPoint
+
 label_remove_imp:
   nl: Verwijder
   en: Remove
