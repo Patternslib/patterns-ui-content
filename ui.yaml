@@ -1913,11 +1913,61 @@ label_sorting:
   en: Sorting
   fr: Tri
   de: Sortierung
+
 label_edit:
+  nl: Bewerken
+  de: Bearbeiten
+  en: Edit
+  fr: Modifier
+  it: Modificare
+  es: Editar
+  pt: Editar
+  pl: Edytuj
+  sv: Redigera
+  da: Rediger
+  fi: Muokkaa
+  cs: Upravit
+  el: Επεξεργασία
+  hu: Szerkesztés
+  ro: Editare
+  bg: Редактиране
+  hr: Uredi
+  sk: Upraviť
+  sl: Uredi
+  lt: Redaguoti
+  lv: Rediģēt
+  et: Redigeeri
+  mt: Editja
+  ga: Cuir in eagar
+  he: ערוך
+
+label_edit_imp:
   nl: Bewerk
   de: Bearbeiten
   en: Edit
   fr: Modifier
+  it: Modificare
+  es: Editar
+  pt: Editar
+  pl: Edytuj
+  sv: Redigera
+  da: Rediger
+  fi: Muokkaa
+  cs: Upravit
+  el: Επεξεργασία
+  hu: Szerkesztés
+  ro: Editare
+  bg: Редактиране
+  hr: Uredi
+  sk: Upraviť
+  sl: Uredi
+  lt: Redaguoti
+  lv: Rediģēt
+  et: Redigeeri
+  mt: Editja
+  ga: Cuir in eagar
+  he: ערוך
+
 label_never:
   nl: Nooit
   en: Never
