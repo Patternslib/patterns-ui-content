@@ -160,6 +160,114 @@ label_powerpoint_file:
   ga: Comhad PowerPoint
   he: קובץ PowerPoint
 
+label_alternative_text:
+  en: Alternative text
+  nl: Alternatieve tekst
+  de: Alternativtext
+  fr: Texte alternatif
+  it: Testo alternativo
+  es: Texto alternativo
+  pt: Texto alternativo
+  pl: Tekst alternatywny
+  sv: Alternativ text
+  da: Alternativ tekst
+  fi: Vaihtoehtoinen teksti
+  cs: Alternativní text
+  el: Εναλλακτικό κείμενο
+  hu: Alternatív szöveg
+  ro: Text alternativ
+  bg: Алтернативен текст
+  hr: Alternativni tekst
+  sk: Alternatívny text
+  sl: Nadomestno besedilo
+  lt: Alternatyvus tekstas
+  lv: Alternatīvais teksts
+  et: Alternatiivne tekst
+  mt: Test alternattiv
+  ga: Téacs malartach
+  he: טקסט חלופי
+
+label_no_copyright_information:
+  en: No copyright information
+  nl: Geen auteursrechtinformatie
+  de: Keine Copyright-Informationen
+  fr: Pas d'informations sur les droits d'auteur
+  it: Nessuna informazione sul copyright
+  es: Sin información de derechos de autor
+  pt: Sem informação sobre direitos de autor
+  pl: Brak informacji o prawach autorskich
+  sv: Ingen upphovsrättsinformation
+  da: Ingen ophavsretsoplysninger
+  fi: Ei tekijänoikeustietoja
+  cs: Žádné informace o autorských právech
+  el: Χωρίς πληροφορίες πνευματικών δικαιωμάτων
+  hu: Nincs szerzői jogi információ
+  ro: Nicio informație despre drepturi de autor
+  bg: Няма информация за авторски права
+  hr: Nema podataka o autorskim pravima
+  sk: Žiadne informácie o autorských právach
+  sl: Brez informacij o avtorskih pravicah
+  lt: Nėra informacijos apie autorines teises
+  lv: Nav informācijas par autortiesībām
+  et: Pole teavet autoriõiguste kohta
+  mt: L-ebda informazzjoni dwar id-drittijiet tal-awtur
+  ga: Níl aon eolas cóipchirt ar fáil
+  he: אין מידע על זכויות יוצרים
+
+label_author:
+  en: Author
+  nl: Auteur
+  de: Autor
+  fr: Auteur
+  it: Autore
+  es: Autor
+  pt: Autor
+  pl: Autor
+  sv: Författare
+  da: Forfatter
+  fi: Kirjoittaja
+  cs: Autor
+  el: Συγγραφέας
+  hu: Szerző
+  ro: Autor
+  bg: Автор
+  hr: Autor
+  sk: Autor
+  sl: Avtor
+  lt: Autorius
+  lv: Autors
+  et: Autor
+  mt: Awtur
+  ga: Údar
+  he: מחבר
+
+label_copyright:
+  en: Copyright
+  nl: Auteursrecht
+  de: Urheberrecht
+  fr: Droits d'auteur
+  it: Copyright
+  es: Derechos de autor
+  pt: Direitos de autor
+  pl: Prawa autorskie
+  sv: Upphovsrätt
+  da: Ophavsret
+  fi: Tekijänoikeus
+  cs: Autorská práva
+  el: Πνευματικά δικαιώματα
+  hu: Szerzői jog
+  ro: Drepturi de autor
+  bg: Авторски права
+  hr: Autorsko pravo
+  sk: Autorské práva
+  sl: Avtorske pravice
+  lt: Autorių teisės
+  lv: Autortiesības
+  et: Autoriõigus
+  mt: Drittijiet tal-awtur
+  ga: Cóipcheart
+  he: זכויות יוצרים
+
 label_remove_imp:
   nl: Verwijder
   en: Remove
