@@ -25,6 +25,87 @@ label_pdf_file:
   ga: Comhad PDF
   he: קובץ PDF
 
+label_metadata:
+  en: Metadata
+  nl: Metadata
+  de: Metadaten
+  fr: Métadonnées
+  it: Metadati
+  es: Metadatos
+  pt: Metadados
+  pl: Metadane
+  sv: Metadata
+  da: Metadata
+  fi: Metadata
+  cs: Metadata
+  el: Μεταδεδομένα
+  hu: Metaadatok
+  ro: Metadate
+  bg: Метаданни
+  hr: Metapodaci
+  sk: Metaúdaje
+  sl: Metapodatki
+  lt: Metaduomenys
+  lv: Metadati
+  et: Metandmed
+  mt: Metadata
+  ga: Meiteashonraí
+  he: מטא-נתונים
+
+label_tags:
+  en: Tags
+  nl: Tags
+  de: Tags
+  fr: Tags
+  it: Tag
+  es: Etiquetas
+  pt: Etiquetas
+  pl: Tagi
+  sv: Taggar
+  da: Tags
+  fi: Tunnisteet
+  cs: Štítky
+  el: Ετικέτες
+  hu: Címkék
+  ro: Etichete
+  bg: Етикети
+  hr: Oznake
+  sk: Štítky
+  sl: Oznake
+  lt: Žymos
+  lv: Tagi
+  et: Sildid
+  mt: Tags
+  ga: Clibeanna
+  he: תגיות
+
+label_more_ell:
+  en: More…
+  nl: Meer…
+  de: Mehr…
+  fr: Plus…
+  it: Di più…
+  es: Más…
+  pt: Mais…
+  pl: Więcej…
+  sv: Mer…
+  da: Mere…
+  fi: Lisää…
+  cs: Více…
+  el: Περισσότερα…
+  hu: Több…
+  ro: Mai mult…
+  bg: Още…
+  hr: Više…
+  sk: Viac…
+  sl: Več…
+  lt: Daugiau…
+  lv: Vairāk…
+  et: Rohkem…
+  mt: Aktar…
+  ga: Níos mó…
+  he: עוד…
+
 label_zip_file:
   en: ZIP file
   nl: ZIP-bestand
