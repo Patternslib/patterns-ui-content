@@ -2657,10 +2657,61 @@ label_read_more:
 label_step:
   nl: Stap
   en: Step
+
 label_log_out:
   nl: Log uit
   en: Log out
   de: Ausloggen
+  fr: Se déconnecter
+  it: Esci
+  es: Cerrar sesión
+  pt: Sair
+  pl: Wyloguj się
+  sv: Logga ut
+  da: Log ud
+  fi: Kirjaudu ulos
+  cs: Odhlásit se
+  el: Αποσύνδεση
+  hu: Kijelentkezés
+  ro: Deconectare
+  bg: Изход
+  hr: Odjava
+  sk: Odhlásiť sa
+  sl: Odjava
+  lt: Atsijungti
+  lv: Izrakstīties
+  et: Logi välja
+  mt: Oħroġ
+  ga: Logáil amach
+  he: התנתקות
+
+label_log_in:
+  nl: Inloggen
+  en: Log in
+  de: Anmelden
+  fr: Se connecter
+  it: Accedi
+  es: Iniciar sesión
+  pt: Entrar
+  pl: Zaloguj się
+  sv: Logga in
+  da: Log ind
+  fi: Kirjaudu sisään
+  cs: Přihlásit se
+  el: Σύνδεση
+  hu: Bejelentkezés
+  ro: Conectare
+  bg: Вход
+  hr: Prijava
+  sk: Prihlásiť sa
+  sl: Prijava
+  lt: Prisijungti
+  lv: Pieslēgties
+  et: Logi sisse
+  mt: Illoggja
+  ga: Logáil isteach
+  he: התחברות
+  
 label_my_profile:
   nl: Mijn profiel
   en: My profile
