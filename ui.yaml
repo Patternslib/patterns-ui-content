@@ -25,6 +25,33 @@ label_pdf_file:
   ga: Comhad PDF
   he: קובץ PDF
 
+label_mp3_file:
+  en: MP3 file
+  nl: MP3-bestand
+  fr: Fichier MP3
+  de: MP3-Datei
+  it: File MP3
+  es: Archivo MP3
+  pt: Arquivo MP3
+  pl: Plik MP3
+  fi: MP3-tiedosto
+  hr: MP3 datoteka
+  cs: Soubor MP3
+  da: MP3-fil
+  mt: Fajl MP3
+  sl: Datoteka MP3
+  bg: MP3 файл
+  ro: Fișier MP3
+  et: MP3-fail
+  lv: MP3 fails
+  lt: MP3 failas
+  sv: MP3-fil
+  sk: MP3 súbor
+  hu: MP3 fájl
+  el: Αρχείο MP3
+  ga: Comhad MP3
+  he: קובץ MP3
+
 label_metadata:
   en: Metadata
   nl: Metadata
