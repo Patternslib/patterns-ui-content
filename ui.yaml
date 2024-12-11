@@ -1247,6 +1247,33 @@ label_cut_imp:
   sv: "Klipp ut"
   he: "גזור"
 
+label_move:
+  nl: Verplaatsen
+  en: Move
+  fr: Déplacer
+  de: Verschieben
+  it: Sposta
+  es: Mover
+  pt: Mover
+  da: Flyt
+  sv: Flytta
+  fi: Siirrä
+  el: Μετακίνηση
+  lt: Perkelti
+  lv: Pārvietot
+  mt: Imxu
+  ga: Bog
+  hr: Pomakni
+  hu: Mozgat
+  pl: Przenieś
+  cs: Přesunout
+  sk: Presunúť
+  sl: Premakni
+  ro: Mutați
+  bg: Премести
+  cy: Symud
+  he: העבר
+
 label_move_imp:
   en: "Move"
   bg: "Премести"
