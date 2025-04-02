@@ -79,6 +79,33 @@ label_metadata:
   ga: Meiteashonraí
   he: מטא-נתונים
 
+label_tag:
+  en: Tag
+  nl: Tag
+  de: Tag
+  fr: Tag
+  it: Tag
+  es: Etiqueta
+  pt: Etiqueta
+  pl: Tag
+  sv: Tagg
+  da: Tag
+  fi: Tunniste
+  cs: Štítek
+  el: Ετικέτα
+  hu: Címke
+  ro: Etichetă
+  bg: Етикет
+  hr: Oznaka
+  sk: Štítok
+  sl: Oznaka
+  lt: Žyma
+  lv: Taga
+  et: Silt
+  mt: Tag
+  ga: Clib
+  he: תג
+
 label_tags:
   en: Tags
   nl: Tags
