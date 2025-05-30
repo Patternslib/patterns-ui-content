@@ -1,3 +1,59 @@
+label_update_imp:
+  nl: Werk bij
+  en: Update
+  fr: Mettre à jour
+  de: Aktualisieren
+  it: Aggiorna
+  es: Actualizar
+  pt: Atualizar
+  da: Opdater
+  sv: Uppdatera
+  fi: Päivitä
+  el: Ενημέρωση
+  lt: Atnaujinti
+  lv: Atjaunināt
+  et: Uuenda
+  mt: Aġġorna
+  ga: Nuashonraigh
+  hu: Frissítés
+  pl: Aktualizuj
+  cs: Aktualizovat
+  sk: Aktualizovať
+  sl: Posodobi
+  hr: Ažuriraj
+  ro: Actualizați
+  bg: Актуализиране
+  cy: Diweddaru
+  he: עדכן
+
+label_create_imp:
+  nl: Maak aan
+  en: Create
+  fr: Créer
+  de: Erstellen
+  it: Crea
+  es: Crear
+  pt: Criar
+  da: Opret
+  sv: Skapa
+  fi: Luo
+  el: Δημιουργία
+  lt: Kurti
+  lv: Izveidot
+  et: Loo
+  mt: Oħloq
+  ga: Cruthaigh
+  hu: Létrehozás
+  pl: Utwórz
+  cs: Vytvořit
+  sk: Vytvoriť
+  sl: Ustvari
+  hr: Stvori
+  ro: Creați
+  bg: Създаване
+  cy: Creu
+  he: צור
+
 label_pdf_file:
   en: PDF file
   nl: PDF-document
