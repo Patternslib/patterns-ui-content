@@ -795,31 +795,31 @@ label_value:
   he: ערך
 
 label_on:
+  en: On
   nl: Aan
-  en: 'On'
-  fr: Sur
+  fr: Activé
   de: Ein
-  it: Su
-  es: En
-  pt: Em
-  pl: W
-  sv: På
-  da: På
+  it: Attivo
+  es: Activado
+  pt: Ligado
+  pl: Włączone
   fi: Päällä
-  cs: Na
-  el: Σε
-  hu: Rajta
-  ro: Pe
-  bg: На
-  hr: Na
-  sk: Na
-  sl: Na
-  lt: Ant
-  lv: Uz
-  et: Peal
-  mt: Fuq
-  ga: Ar
-  he: על
+  hr: Uključeno
+  cs: Zapnuto
+  da: Til
+  mt: Mixgħul
+  sl: Vključeno
+  bg: Включено
+  ro: Activat
+  et: Sees
+  lv: Ieslēgts
+  lt: Įjungta
+  sv: På
+  sk: Zapnuté
+  hu: Bekapcsolva
+  el: Ενεργό
+  ga: Ar siúl
+  he: פעיל
 
 label_loading:
   nl: Laden
