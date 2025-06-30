@@ -1,3 +1,31 @@
+label_start_imp:
+  nl: Start
+  en: Start
+  fr: Démarrer
+  de: Starten
+  it: Inizia
+  es: Comenzar
+  pt: Iniciar
+  da: Start
+  sv: Starta
+  fi: Aloita
+  el: Έναρξη
+  lt: Pradėti
+  lv: Sākt
+  et: Alusta
+  mt: Ibda'
+  ga: Tosaigh
+  hu: Indítás
+  pl: Rozpocznij
+  cs: Spustit
+  sk: Spustiť
+  sl: Začni
+  hr: Pokreni
+  ro: Începeți
+  bg: Започнете
+  cy: Dechrau
+  he: התחל
+
 label_update_imp:
   nl: Werk bij
   en: Update
