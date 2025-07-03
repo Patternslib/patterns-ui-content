@@ -879,7 +879,7 @@ label_value:
   he: ערך
 
 label_on:
-  en: On
+  en: 'On'
   nl: Aan
   fr: Activé
   de: Ein
