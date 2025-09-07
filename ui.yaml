@@ -1,3 +1,59 @@
+label_export:
+  nl: Exporteren
+  en: Export
+  fr: Exporter
+  de: Exportieren
+  it: Esportare
+  es: Exportar
+  pt: Exportar
+  da: Eksportér
+  sv: Exportera
+  fi: Viedä
+  el: Εξαγωγή
+  lt: Eksportuoti
+  lv: Eksportēt
+  et: Ekspordi
+  mt: Esportazzjoni
+  ga: Easpórtáil
+  hu: Exportálás
+  pl: Eksportuj
+  cs: Exportovat
+  sk: Exportovať
+  sl: Izvozi
+  hr: Izvezi
+  ro: Exportați
+  bg: Експортиране
+  cy: Allforio
+  he: ייצא
+
+label_export_imp:
+  nl: Exporteer
+  en: Export
+  fr: Exporter
+  de: Exportieren
+  it: Esportare
+  es: Exportar
+  pt: Exportar
+  da: Eksportér
+  sv: Exportera
+  fi: Viedä
+  el: Εξαγωγή
+  lt: Eksportuoti
+  lv: Eksportēt
+  et: Ekspordi
+  mt: Esportazzjoni
+  ga: Easpórtáil
+  hu: Exportálás
+  pl: Eksportuj
+  cs: Exportovat
+  sk: Exportovať
+  sl: Izvozi
+  hr: Izvezi
+  ro: Exportați
+  bg: Експортиране
+  cy: Allforio
+  he: ייצא
+
 label_start_imp:
   nl: Start
   en: Start
