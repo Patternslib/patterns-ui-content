@@ -1,3 +1,57 @@
+label_plain_text_file:
+  en: Plain text file
+  nl: Platte tekstbestand
+  de: Nur-Text-Datei
+  fr: Fichier texte brut
+  it: File di testo semplice
+  es: Archivo de texto sin formato
+  pt: Ficheiro de texto simples
+  pl: Plik tekstowy
+  sv: Ren textfil
+  da: Almindelig tekstfil
+  fi: Tavallinen tekstiedosto
+  cs: Prostý textový soubor
+  el: Αρχείο απλού κειμένου
+  hu: Egyszerű szövegfájl
+  ro: Fișier text simplu
+  bg: Обикновен текстов файл
+  hr: Običajna tekstualna datoteka
+  sk: Súbor s obyčajným textom
+  sl: Datoteka z navadnim besedilom
+  lt: Paprasto teksto failas
+  lv: Vienkārša teksta fails
+  et: Tavaline tekstifail
+  mt: Fajl tat-test sempliċi
+  ga: Comhad téacs lom
+  he: קובץ טקסט רגיל
+
+label_xml_file:
+  en: XML file
+  nl: XML-bestand
+  de: XML-Datei
+  fr: Fichier XML
+  it: File XML
+  es: Archivo XML
+  pt: Ficheiro XML
+  pl: Plik XML
+  sv: XML-fil
+  da: XML-fil
+  fi: XML-tiedosto
+  cs: XML soubor
+  el: Αρχείο XML
+  hu: XML fájl
+  ro: Fișier XML
+  bg: XML файл
+  hr: XML datoteka
+  sk: XML súbor
+  sl: XML datoteka
+  lt: XML failas
+  lv: XML fails
+  et: XML fail
+  mt: Fajl XML
+  ga: Comhad XML
+  he: קובץ XML
+
 label_export:
   nl: Exporteren
   en: Export
