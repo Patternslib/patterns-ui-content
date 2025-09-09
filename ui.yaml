@@ -2296,6 +2296,7 @@ label_previous:
   'no': ''
   pt: Anterior
   sl: Nazaj
+
 label_next:
   bg: Напред
   ca: Següent
@@ -2379,24 +2380,142 @@ label_edit_imp:
   he: ערוך
 
 label_never:
-  nl: Nooit
-  en: Never
+  bg: Никога
+  cs: Nikdy
+  da: Aldrig
   de: Nie
-label_immediately: 
-  nl: Onmiddelijk
-  en: Immediately
+  el: Ποτέ
+  en: Never
+  es: Nunca
+  et: Mitte kunagi
+  fi: Ei koskaan
+  fr: Jamais
+  ga: Riamh
+  he: לעולם לא
+  hr: Nikada
+  hu: Soha
+  it: Mai
+  lt: Niekada
+  lv: Nekad
+  mt: Qatt
+  nl: Nooit
+  pl: Nigdy
+  pt: Nunca
+  ro: Niciodată
+  sk: Nikdy
+  sl: Nikoli
+  sv: Aldrig
+
+label_immediately:
+  bg: Веднага
+  cs: Okamžitě
+  da: Med det samme
   de: Sofort
+  el: Αμέσως
+  en: Immediately
+  es: Inmediatamente
+  et: Kohe
+  fi: Heti
+  fr: Immédiatement
+  ga: Láithreach
+  he: מיד
+  hr: Odmah
+  hu: Azonnal
+  it: Immediatamente
+  lt: Nedelsiant
+  lv: Nekavējoties
+  mt: Immedjatament
+  nl: Onmiddellijk
+  pl: Natychmiast
+  pt: Imediatamente
+  ro: Imediat
+  sk: Okamžite
+  sl: Takoj
+  sv: Omedelbart
+
 label_close:
+  bg: Затвори
+  cs: Zavřít
+  da: Luk
   de: Schließen
+  el: Κλείστε
   en: Close
+  es: Cerrar
+  et: Sule
+  fi: Sulje
   fr: Fermer
+  ga: Dún
+  hr: Zatvori
+  hu: Bezárás
+  it: Chiudi
+  lt: Uždaryti
+  lv: Aizvērt
+  mt: Agħlaq
   nl: Sluiten
+  pl: Zamknij
+  pt: Fechar
+  ro: Închide
+  sk: Zavrieť
+  sl: Zapri
+  sv: Stäng
+  he: סגור
+
 label_close_imp:
+  bg: Затвори
+  cs: Zavřít
+  da: Luk
   de: Schließen
+  el: Κλείστε
   en: Close
+  es: Cerrar
+  et: Sule
+  fi: Sulje
   fr: Fermer
+  ga: Dún
+  hr: Zatvori
+  hu: Bezárás
+  it: Chiudi
+  lt: Uždaryti
+  lv: Aizvērt
+  mt: Agħlaq
   nl: Sluit
-label_daily: 
+  pl: Zamknij
+  pt: Fechar
+  ro: Închide
+  sk: Zavrieť
+  sl: Zapri
+  sv: Stäng
+  he: סגור
+  sk: Zavrieť
+  sl: Zapri
+  sv: Stäng
+
+label_daily:
+  bg: Ежедневно
+  cs: Denně
+  da: Dagligt
+  de: Täglich
+  el: Καθημερινά
+  en: Daily
+  es: Diario
+  et: Igapäevaselt
+  fi: Päivittäin
+  fr: Quotidien
+  ga: Laethúil
+  he: יומי
+  hr: Dnevno
+  hu: Naponta
+  it: Quotidiano
+  lt: Kasdien
+  lv: Ikdienas
+  mt: Kuljum
+  nl: Dagelijks
+  pl: Codziennie
+  pt: Diário
+  ro: Zilnic
+  sk: Denne
+  sl: Dnevno
+  sv: Dagligen 
   nl: Dagelijks
   en: Daily
   de: Täglich
