@@ -25,6 +25,62 @@ label_plain_text_file:
   ga: Comhad téacs lom
   he: קובץ טקסט רגיל
 
+label_import:
+  nl: Importeren
+  en: Import
+  fr: Importer
+  de: Importieren
+  it: Importare
+  es: Importar
+  pt: Importar
+  da: Importér
+  sv: Importera
+  fi: Tuo
+  el: Εισαγωγή
+  lt: Importuoti
+  lv: Importēt
+  et: Impordi
+  mt: Importazzjoni
+  ga: Iompórtáil
+  hu: Importálás
+  pl: Importuj
+  cs: Importovat
+  sk: Importovať
+  sl: Uvozi
+  hr: Uvezi
+  ro: Importați
+  bg: Импортиране
+  cy: Mewnforio
+  he: ייבא
+
+label_import_imp:
+  nl: Importeer
+  en: Import
+  fr: Importer
+  de: Importieren
+  it: Importare
+  es: Importar
+  pt: Importar
+  da: Importér
+  sv: Importera
+  fi: Tuo
+  el: Εισαγωγή
+  lt: Importuoti
+  lv: Importēt
+  et: Impordi
+  mt: Importazzjoni
+  ga: Iompórtáil
+  hu: Importálás
+  pl: Importuj
+  cs: Importovat
+  sk: Importovať
+  sl: Uvozi
+  hr: Uvezi
+  ro: Importați
+  bg: Импортиране
+  cy: Mewnforio
+  he: ייבא
+
 label_xml_file:
   en: XML file
   nl: XML-bestand
