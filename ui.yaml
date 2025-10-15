@@ -1,3 +1,30 @@
+label_table_of_contents:
+  en: Table of contents
+  nl: Inhoudsopgave
+  de: Inhaltsverzeichnis
+  fr: Table des matières
+  it: Indice
+  es: Tabla de contenidos
+  pt: Índice
+  pl: Spis treści
+  sv: Innehållsförteckning
+  da: Indholdsfortegnelse
+  fi: Sisällysluettelo
+  cs: Obsah
+  el: Πίνακας περιεχομένων
+  hu: Tartalomjegyzék
+  ro: Cuprins
+  bg: Съдържание
+  hr: Sadržaj
+  sk: Obsah
+  sl: Kazalo vsebine
+  lt: Turinys
+  lv: Saturs
+  et: Sisukord
+  mt: Indice
+  ga: Clár ábhair
+  he: תוכן העניינים
+
 label_plain_text_file:
   en: Plain text file
   nl: Platte tekstbestand
@@ -1740,11 +1767,7 @@ label_password:
   'no': ''
   pt: Palavra-passe
   sl: Prijava
-label_table_of_contents:
-  en: Table of contents
-  nl: Inhoudsopgave
-  de: Inhaltsverzeichnis
-  fr: Table des matières
+
 label_reply_imp:
   en: Reply
   nl: Beantwoorden
