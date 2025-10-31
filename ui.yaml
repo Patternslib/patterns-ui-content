@@ -1,3 +1,55 @@
+label_users:
+    bg: Потребители
+    cs: Uživatelé
+    da: Brugere
+    de: Benutzer
+    el: Χρήστες
+    en: Users
+    es: Usuarios
+    et: Kasutajad
+    fi: Käyttäjät
+    fr: Utilisateurs
+    ga: Úsáideoirí
+    he: משתמשים
+    hr: Korisnici
+    hu: Felhasználók
+    it: Utenti
+    lt: Vartotojai
+    lv: Lietotāji
+    mt: Utenti
+    pl: Użytkownicy
+    pt: Utilizadores
+    ro: Utilizatori
+    sk: Používatelia
+    sl: Uporabniki
+    sv: Användare
+
+label_user:
+    bg: Потребител
+    cs: Uživatel
+    da: Bruger
+    de: Benutzer
+    el: Χρήστης
+    en: User
+    es: Usuario
+    et: Kasutaja
+    fi: Käyttäjä
+    fr: Utilisateur
+    ga: Úsáideoir
+    he: משתמש
+    hr: Korisnik
+    hu: Felhasználó
+    it: Utente
+    lt: Vartotojas
+    lv: Lietotājs
+    mt: Utent
+    pl: Użytkownik
+    pt: Utilizador
+    ro: Utilizator
+    sk: Používateľ
+    sl: Uporabnik
+    sv: Användare
+
 label_table_of_contents:
   en: Table of contents
   nl: Inhoudsopgave
@@ -2928,11 +2980,7 @@ label_contributions:
   nl: Bijdragen
   de: Contributions
   en: Contributions
-label_users:
-  nl: Gebruikers
-  en: Users
-  de: Benutzer
-  fr: Utilisateurs
+
 label_account: 
   nl: Account
   en: Account
