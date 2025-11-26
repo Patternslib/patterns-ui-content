@@ -1,3 +1,111 @@
+label_mobile_phone_number:
+  en: Mobile phone number
+  nl: Mobiel telefoonnummer
+  fr: Numéro de téléphone portable
+  de: Handynummer
+  it: Numero di cellulare
+  es: Número de teléfono móvil
+  pt: Número de telemóvel
+  pl: Numer telefonu komórkowego
+  sv: Mobiltelefonnummer
+  da: Mobiltelefonnummer
+  fi: Matkapuhelinnumero
+  cs: Mobilní telefonní číslo
+  el: Αριθμός κινητού τηλεφώνου
+  hu: Mobiltelefonszám
+  ro: Număr de telefon mobil
+  bg: Мобилен телефонен номер
+  hr: Broj mobitela
+  sk: Číslo mobilného telefónu
+  sl: Številka mobilnega telefona
+  lt: Mobiliojo telefono numeris
+  lv: Mobilā tālruņa numurs
+  et: Mobiiltelefoni number
+  mt: Numru tat-telefon ċellulari
+  ga: Uimhir gutháin shoghluaiste
+  he: מספר טלפון נייד
+
+label_phone_number:
+  en: Phone number
+  nl: Telefoonnummer
+  fr: Numéro de téléphone
+  de: Telefonnummer
+  it: Numero di telefono
+  es: Número de teléfono
+  pt: Número de telefone
+  pl: Numer telefonu
+  sv: Telefonnummer
+  da: Telefonnummer
+  fi: Puhelinnumero
+  cs: Telefonní číslo
+  el: Αριθμός τηλεφώνου
+  hu: Telefonszám
+  ro: Număr de telefon
+  bg: Телефонен номер
+  hr: Broj telefona
+  sk: Telefónne číslo
+  sl: Telefonska številka
+  lt: Telefono numeris
+  lv: Tālruņa numurs
+  et: Telefoninumber
+  mt: Numru tat-telefon
+  ga: Uimhir gutháin
+  he: מספר טלפון
+
+label_first_name:
+  en: First name
+  nl: Voornaam
+  fr: Prénom
+  de: Vorname
+  it: Nome
+  es: Nombre
+  pt: Primeiro nome
+  pl: Imię
+  fi: Etunimi
+  hr: Ime
+  cs: Jméno
+  da: Fornavn
+  mt: Isem
+  sl: Ime
+  bg: Име
+  ro: Prenume
+  et: Eesnimi
+  lv: Vārds
+  lt: Vardas
+  sv: Förnamn
+  sk: Krstné meno
+  hu: Keresztnév
+  el: Όνομα
+  ga: Céadainm
+  he: שם פרטי
+
+label_last_name:
+  en: Family name
+  nl: Achternaam
+  fr: Nom de famille
+  de: Nachname
+  it: Cognome
+  es: Apellido
+  pt: Apelido
+  pl: Nazwisko
+  fi: Sukunimi
+  hr: Prezime
+  cs: Příjmení
+  da: Efternavn
+  mt: Kunjom
+  sl: Priimek
+  bg: Фамилия
+  ro: Nume de familie
+  et: Perekonnanimi
+  lv: Uzvārds
+  lt: Pavardė
+  sv: Efternamn
+  sk: Priezvisko
+  hu: Vezetéknév
+  el: Επώνυμο
+  ga: Sloinne
+  he: שם משפחה
+
 label_users:
     bg: Потребители
     cs: Uživatelé
@@ -1755,16 +1863,7 @@ snippet_optional:
   en: optional
   fr: facultatif
   de: optional
-label_first_name:
-  nl: Voornaam
-  en: First name
-  de: Vorname
-  fr: Prénom
-label_last_name:
-  nl: Achternaam
-  en: Family name
-  de: Nachname
-  fr: Nom de famille
+
 label_height: 
   nl: Hoogte
   en: Height
