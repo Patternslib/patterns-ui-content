@@ -1,3 +1,57 @@
+label_filters:
+  en: Filters
+  nl: Filters
+  fr: Filtres
+  de: Filter
+  it: Filtri
+  es: Filtros
+  pt: Filtros
+  pl: Filtry
+  sv: Filter
+  da: Filtre
+  fi: Suodattimet
+  cs: Filtry
+  el: Φίλτρα
+  hu: Szűrők
+  ro: Filtre
+  bg: Филтри
+  hr: Filteri
+  sk: Filtre
+  sl: Filtri
+  lt: Filtrai
+  lv: Filtri
+  et: Filtrid
+  mt: Filtri
+  ga: Scagairí
+  he: מסננים
+
+label_alphabetical:
+  en: Alphabetical
+  nl: Alfabetisch
+  fr: Alphabétique
+  de: Alphabetisch
+  it: Alfabetico
+  es: Alfabético
+  pt: Alfabético
+  pl: Alfabetycznie
+  sv: Alfabetisk
+  da: Alfabetisk
+  fi: Aakkosjärjestys
+  cs: Abecedně
+  el: Αλφαβητικά
+  hu: ABC sorrendben
+  ro: Alfabetic
+  bg: Азбучен ред
+  hr: Abecedno
+  sk: Abecedne
+  sl: Po abecedi
+  lt: Abėcėlės tvarka
+  lv: Alfabētiski
+  et: A-tähe järjekorras
+  mt: Alfabetikament
+  ga: De réir aibítre
+  he: אלפביתי
+
 label_mobile_phone_number:
   en: Mobile phone number
   nl: Mobiel telefoonnummer
