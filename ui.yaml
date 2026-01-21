@@ -1,3 +1,30 @@
+label_back:
+  en: Back
+  nl: Terug
+  fr: Retour
+  de: Zurück
+  it: Indietro
+  es: Atrás
+  pt: Voltar
+  pl: Wstecz
+  fi: Takaisin
+  hr: Natrag
+  cs: Zpět
+  da: Tilbage
+  mt: Lura
+  sl: Nazaj
+  bg: Назад
+  ro: Înapoi
+  et: Tagasi
+  lv: Atpakaļ
+  lt: Atgal
+  sv: Tillbaka
+  sk: Späť
+  hu: Vissza
+  el: Πίσω
+  ga: Ar ais
+  he: חזרה
+
 label_filters:
   en: Filters
   nl: Filters
@@ -3124,11 +3151,7 @@ label_visibility:
   en: Visibility
   de: Sichtbarkeit
   fr: Visibilité
-label_back:
-  nl: Terug
-  de: Zurück
-  en: Back
-  fr: Retourner
+
 label_contributions:
   nl: Bijdragen
   de: Contributions
