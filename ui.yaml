@@ -1,3 +1,57 @@
+label_delete:
+  en: Delete
+  nl: Verwijderen
+  fr: Effacer
+  de: Löschen
+  it: Eliminare
+  es: Eliminar
+  pt: Eliminar
+  pl: Usuń
+  fi: Poista
+  hr: Izbriši
+  cs: Smazat
+  da: Slet
+  mt: Ħassar
+  sl: Izbriši
+  bg: Изтрий
+  ro: Șterge
+  et: Kustuta
+  lv: Dzēst
+  lt: Ištrinti
+  sv: Radera
+  sk: Odstrániť
+  hu: Törlés
+  el: Διαγραφή
+  ga: Scrios
+  he: מחק
+
+label_delete_imp:
+  en: Delete
+  nl: Verwijder
+  fr: Effacer
+  de: Löschen
+  it: Eliminare
+  es: Eliminar
+  pt: Eliminar
+  pl: Usuń
+  fi: Poista
+  hr: Izbriši
+  cs: Smazat
+  da: Slet
+  mt: Ħassar
+  sl: Izbriši
+  bg: Изтрий
+  ro: Șterge
+  et: Kustuta
+  lv: Dzēst
+  lt: Ištrinti
+  sv: Radera
+  sk: Odstrániť
+  hu: Törlés
+  el: Διαγραφή
+  ga: Scrios
+  he: מחק
+
 label_users:
     bg: Потребители
     cs: Uživatelé
@@ -2385,16 +2439,6 @@ label_remove:
   en: Remove
   fr: Supprimer
   de: Entfernen
-label_delete:
-  nl: Verwijderen
-  en: Delete
-  fr: Effacer
-  de: Löschen
-label_delete_imp:
-  nl: Verwijder
-  en: Delete
-  fr: Effacer
-  de: Löschen
 
 label_no:
   bg: Не
