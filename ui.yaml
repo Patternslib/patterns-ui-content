@@ -1,3 +1,57 @@
+label_select_all_imp:
+  en: Select all
+  nl: Selecteer alles
+  fr: Tout sélectionner
+  de: Alle auswählen
+  it: Seleziona tutto
+  es: Seleccionar todo
+  pt: Selecionar tudo
+  pl: Zaznacz wszystko
+  fi: Valitse kaikki
+  hr: Odaberi sve
+  cs: Vybrat vše
+  da: Vælg alle
+  mt: Agħżel kollox
+  sl: Izberi vse
+  bg: Избери всички
+  ro: Selectează tot
+  et: Vali kõik
+  lv: Atlasīt visu
+  lt: Pasirinkti viską
+  sv: Välj alla
+  sk: Vybrať všetko
+  hu: Összes kijelölése
+  el: Επιλογή όλων
+  ga: Roghnaigh gach rud
+  he: בחר הכל
+
+label_deselect_all_imp:
+  en: Deselect all
+  nl: Deselecteer alles
+  fr: Tout désélectionner
+  de: Auswahl aufheben
+  it: Deseleziona tutto
+  es: Deseleccionar todo
+  pt: Desselecionar tudo
+  pl: Odznacz wszystko
+  fi: Poista kaikkien valinta
+  hr: Poništi odabir svih
+  cs: Zrušit výběr všeho
+  da: Fravælg alle
+  mt: Neħħi l-għażla minn kollox
+  sl: Prekliči izbor vseh
+  bg: Премахни избора на всички
+  ro: Deselectează tot
+  et: Tühista kõigi valik
+  lv: Atcelt visu atlasi
+  lt: Atšaukti visų pasirinkimą
+  sv: Avmarkera alla
+  sk: Zrušiť výber všetkého
+  hu: Összes kijelölés megszüntetése
+  el: Αποεπιλογή όλων
+  ga: Díscríobh gach rud
+  he: בטל בחירה של הכל
+
 label_transfer_imp:
   en: Transfer
   nl: Verplaats
