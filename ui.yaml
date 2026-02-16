@@ -1,3 +1,30 @@
+label_transfer_imp:
+  en: Transfer
+  nl: Verplaats
+  fr: Déplacer
+  de: Verschieben
+  it: Sposta
+  es: Mover
+  pt: Mover
+  pl: Przenieś
+  fi: Siirrä
+  hr: Premjesti
+  cs: Přesunout
+  da: Flyt
+  mt: Mexxi
+  sl: Premakni
+  bg: Премести
+  ro: Mută
+  et: Teisalda
+  lv: Pārvietot
+  lt: Perkelti
+  sv: Flytta
+  sk: Presunúť
+  hu: Áthelyez
+  el: Μετακίνησε
+  ga: Bog
+  he: העבר
+
 label_tag_imp:
   en: Tag
   nl: Tag
