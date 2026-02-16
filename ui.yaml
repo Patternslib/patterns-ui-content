@@ -1,3 +1,30 @@
+label_tag_imp:
+  en: Tag
+  nl: Tag
+  fr: Étiqueter
+  de: Taggen
+  it: Etichetta
+  es: Etiquetar
+  pt: Etiquetar
+  pl: Otaguj
+  fi: Tägää
+  hr: Označi
+  cs: Označit
+  da: Tag
+  mt: Ittejjja
+  sl: Označi
+  bg: Маркирай
+  ro: Etichetează
+  et: Märgista
+  lv: Atzīmēt
+  lt: Pažymėti
+  sv: Tagga
+  sk: Označiť
+  hu: Címkézés
+  el: Επισήμανση
+  ga: Clibeáil
+  he: תייג  
+
 label_select:
   en: Select
   nl: Selecteren
