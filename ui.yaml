@@ -1,3 +1,219 @@
+label_public_domain:
+  en: Public domain
+  nl: Publiek domein
+  fr: Domaine public
+  de: Gemeinfrei
+  it: Dominio pubblico
+  es: Dominio público
+  pt: Domínio público
+  pl: Domena publiczna
+  fi: Julkinen domain
+  hr: Javno vlasništvo
+  cs: Veřejná doména
+  da: Public domain
+  mt: Dominju pubbliku
+  sl: Javna domena
+  bg: Публично достояние
+  ro: Domeniu public
+  et: Avalik omand
+  lv: Publiskais domēns
+  lt: Viešasis domenas
+  sv: Public domain
+  sk: Verejná doména
+  hu: Közkincs
+  el: Δημόσιος τομέας
+  ga: Fearann poiblí
+  he: נחלת הכלל
+
+label_copyright:
+  en: Copyright
+  nl: Copyright
+  fr: Copyright
+  de: Copyright
+  it: Copyright
+  es: Copyright
+  pt: Copyright
+  pl: Copyright
+  fi: Copyright
+  hr: Copyright
+  cs: Copyright
+  da: Copyright
+  mt: Copyright
+  sl: Copyright
+  bg: Copyright
+  ro: Copyright
+  et: Copyright
+  lv: Copyright
+  lt: Copyright
+  sv: Copyright
+  sk: Copyright
+  hu: Copyright
+  el: Copyright
+  ga: Copyright
+  he: זכויות יוצרים
+
+label_cc_by:
+  en: Creative Commons, Attribution (CC BY)
+  nl: Creative Commons, Naamsvermelding (CC BY)
+  fr: Creative Commons, Attribution (CC BY)
+  de: Creative Commons, Namensnennung (CC BY)
+  it: Creative Commons, Attribuzione (CC BY)
+  es: Creative Commons, Atribución (CC BY)
+  pt: Creative Commons, Atribuição (CC BY)
+  pl: Creative Commons, Uznanie autorstwa (CC BY)
+  fi: Creative Commons, Nimeä (CC BY)
+  hr: Creative Commons, Imenovanje (CC BY)
+  cs: Creative Commons, Uveďte autora (CC BY)
+  da: Creative Commons, Navngivelse (CC BY)
+  mt: Creative Commons, Attribuzzjoni (CC BY)
+  sl: Creative Commons, Priznanje avtorstva (CC BY)
+  bg: Creative Commons, Признание на авторството (CC BY)
+  ro: Creative Commons, Atribuire (CC BY)
+  et: Creative Commons, Autorile viitamine (CC BY)
+  lv: Creative Commons, Attiecinājums (CC BY)
+  lt: Creative Commons, Priskyrimas (CC BY)
+  sv: Creative Commons, Erkännande (CC BY)
+  sk: Creative Commons, Uvedenie autora (CC BY)
+  hu: Creative Commons, Nevezd meg! (CC BY)
+  el: Creative Commons, Αναφορά Δημιουργού (CC BY)
+  ga: Creative Commons, Luaigh an tÚdar (CC BY)
+  he: Creative Commons, ייחוס (CC BY)
+
+label_cc_by_sa:
+  en: Creative Commons, Attribution-ShareAlike (CC BY-SA)
+  nl: Creative Commons, Naamsvermelding-GelijkDelen (CC BY-SA)
+  fr: Creative Commons, Attribution-Partage dans les mêmes conditions (CC BY-SA)
+  de: Creative Commons, Namensnennung-Weitergabe unter gleichen Bedingungen (CC BY-SA)
+  it: Creative Commons, Attribuzione-Condividi allo stesso modo (CC BY-SA)
+  es: Creative Commons, Atribución-CompartirIgual (CC BY-SA)
+  pt: Creative Commons, Atribuição-Partilha nos Mesmos Termos (CC BY-SA)
+  pl: Creative Commons, Uznanie autorstwa-Na tych samych warunkach (CC BY-SA)
+  fi: Creative Commons, Nimeä-JaaSamoin (CC BY-SA)
+  hr: Creative Commons, Imenovanje-Dijeli pod istim uvjetima (CC BY-SA)
+  cs: Creative Commons, Uveďte autora-Zachovejte licenci (CC BY-SA)
+  da: Creative Commons, Navngivelse-Del på samme vilkår (CC BY-SA)
+  mt: Creative Commons, Attribuzzjoni-Aqsam bl-istess mod (CC BY-SA)
+  sl: Creative Commons, Priznanje avtorstva-Deljenje pod enakimi pogoji (CC BY-SA)
+  bg: Creative Commons, Признание на авторството-Споделяне на споделено (CC BY-SA)
+  ro: Creative Commons, Atribuire-Partajare în condiții identice (CC BY-SA)
+  et: Creative Commons, Autorile viitamine-Jaga samadel tingimustel (CC BY-SA)
+  lv: Creative Commons, Attiecinājums-Dalīties līdzīgi (CC BY-SA)
+  lt: Creative Commons, Priskyrimas-Dalintis panašiai (CC BY-SA)
+  sv: Creative Commons, Erkännande-DelaLika (CC BY-SA)
+  sk: Creative Commons, Uvedenie autora-Rovnaké podmienky (CC BY-SA)
+  hu: Creative Commons, Nevezd meg!-Így add tovább! (CC BY-SA)
+  el: Creative Commons, Αναφορά Δημιουργού-Παρόμοια Διανομή (CC BY-SA)
+  ga: Creative Commons, Luaigh an tÚdar-Comhroinn ar an gCéanna (CC BY-SA)
+  he: Creative Commons, ייחוס-שיתוף זהה (CC BY-SA)
+
+label_cc_by_nd:
+  en: Creative Commons, Attribution-NoDerivatives (CC BY-ND)
+  nl: Creative Commons, Naamsvermelding-GeenAfgeleideWerken (CC BY-ND)
+  fr: Creative Commons, Attribution-Pas de modification (CC BY-ND)
+  de: Creative Commons, Namensnennung-Keine Bearbeitungen (CC BY-ND)
+  it: Creative Commons, Attribuzione-Non opere derivate (CC BY-ND)
+  es: Creative Commons, Atribución-SinDerivadas (CC BY-ND)
+  pt: Creative Commons, Atribuição-SemDerivações (CC BY-ND)
+  pl: Creative Commons, Uznanie autorstwa-Bez utworów zależnych (CC BY-ND)
+  fi: Creative Commons, Nimeä-Ei muutoksia (CC BY-ND)
+  hr: Creative Commons, Imenovanje-Bez prerada (CC BY-ND)
+  cs: Creative Commons, Uveďte autora-Bez odvozených děl (CC BY-ND)
+  da: Creative Commons, Navngivelse-Ingen bearbejdninger (CC BY-ND)
+  mt: Creative Commons, Attribuzzjoni-Ebda derivattivi (CC BY-ND)
+  sl: Creative Commons, Priznanje avtorstva-Brez predelav (CC BY-ND)
+  bg: Creative Commons, Признание на авторството-Без производни (CC BY-ND)
+  ro: Creative Commons, Atribuire-Fără modificări (CC BY-ND)
+  et: Creative Commons, Autorile viitamine-Tuletisi pole (CC BY-ND)
+  lv: Creative Commons, Attiecinājums-Bez atvasinājumiem (CC BY-ND)
+  lt: Creative Commons, Priskyrimas-Be išvestinių kūrinių (CC BY-ND)
+  sv: Creative Commons, Erkännande-IngaBearbetningar (CC BY-ND)
+  sk: Creative Commons, Uvedenie autora-Bez odvodených diel (CC BY-ND)
+  hu: Creative Commons, Nevezd meg!-Ne változtasd! (CC BY-ND)
+  el: Creative Commons, Αναφορά Δημιουργού-Χωρίς Παράγωγα Έργα (CC BY-ND)
+  ga: Creative Commons, Luaigh an tÚdar-Gan Díorthaigh (CC BY-ND)
+  he: Creative Commons, ייחוס-ללא נגזרות (CC BY-ND)
+
+label_cc_by_nc:
+  en: Creative Commons, Attribution-NonCommercial (CC BY-NC)
+  nl: Creative Commons, Naamsvermelding-NietCommercieel (CC BY-NC)
+  fr: Creative Commons, Attribution-Pas d’utilisation commerciale (CC BY-NC)
+  de: Creative Commons, Namensnennung-Nicht kommerziell (CC BY-NC)
+  it: Creative Commons, Attribuzione-Non commerciale (CC BY-NC)
+  es: Creative Commons, Atribución-NoComercial (CC BY-NC)
+  pt: Creative Commons, Atribuição-NãoComercial (CC BY-NC)
+  pl: Creative Commons, Uznanie autorstwa-Użycie niekomercyjne (CC BY-NC)
+  fi: Creative Commons, Nimeä-Ei kaupallinen (CC BY-NC)
+  hr: Creative Commons, Imenovanje-Nekomercijalno (CC BY-NC)
+  cs: Creative Commons, Uveďte autora-Neužívejte komerčně (CC BY-NC)
+  da: Creative Commons, Navngivelse-Ikke-kommerciel (CC BY-NC)
+  mt: Creative Commons, Attribuzzjoni-Mhux kummerċjali (CC BY-NC)
+  sl: Creative Commons, Priznanje avtorstva-Nekomercialno (CC BY-NC)
+  bg: Creative Commons, Признание на авторството-Некомерсиално (CC BY-NC)
+  ro: Creative Commons, Atribuire-Necomercial (CC BY-NC)
+  et: Creative Commons, Autorile viitamine-Mitteäriline (CC BY-NC)
+  lv: Creative Commons, Attiecinājums-Nekomerciāli (CC BY-NC)
+  lt: Creative Commons, Priskyrimas-Nekomercinis (CC BY-NC)
+  sv: Creative Commons, Erkännande-IckeKommersiell (CC BY-NC)
+  sk: Creative Commons, Uvedenie autora-Nekomerčné použitie (CC BY-NC)
+  hu: Creative Commons, Nevezd meg!-Ne add el! (CC BY-NC)
+  el: Creative Commons, Αναφορά Δημιουργού-Μη Εμπορική Χρήση (CC BY-NC)
+  ga: Creative Commons, Luaigh an tÚdar-Neamhthráchtála (CC BY-NC)
+  he: Creative Commons, ייחוס-לא מסחרי (CC BY-NC)
+
+label_cc_by_nc_sa:
+  en: Creative Commons, Attribution-NonCommercial-ShareAlike (CC BY-NC-SA)
+  nl: Creative Commons, Naamsvermelding-NietCommercieel-GelijkDelen (CC BY-NC-SA)
+  fr: Creative Commons, Attribution-Pas d’utilisation commerciale-Partage dans les mêmes conditions (CC BY-NC-SA)
+  de: Creative Commons, Namensnennung-Nicht kommerziell-Weitergabe unter gleichen Bedingungen (CC BY-NC-SA)
+  it: Creative Commons, Attribuzione-Non commerciale-Condividi allo stesso modo (CC BY-NC-SA)
+  es: Creative Commons, Atribución-NoComercial-CompartirIgual (CC BY-NC-SA)
+  pt: Creative Commons, Atribuição-NãoComercial-Partilha nos Mesmos Termos (CC BY-NC-SA)
+  pl: Creative Commons, Uznanie autorstwa-Użycie niekomercyjne-Na tych samych warunkach (CC BY-NC-SA)
+  fi: Creative Commons, Nimeä-Ei kaupallinen-JaaSamoin (CC BY-NC-SA)
+  hr: Creative Commons, Imenovanje-Nekomercijalno-Dijeli pod istim uvjetima (CC BY-NC-SA)
+  cs: Creative Commons, Uveďte autora-Neužívejte komerčně-Zachovejte licenci (CC BY-NC-SA)
+  da: Creative Commons, Navngivelse-Ikke-kommerciel-Del på samme vilkår (CC BY-NC-SA)
+  mt: Creative Commons, Attribuzzjoni-Mhux kummerċjali-Aqsam bl-istess mod (CC BY-NC-SA)
+  sl: Creative Commons, Priznanje avtorstva-Nekomercialno-Deljenje pod enakimi pogoji (CC BY-NC-SA)
+  bg: Creative Commons, Признание на авторството-Некомерсиално-Споделяне на споделено (CC BY-NC-SA)
+  ro: Creative Commons, Atribuire-Necomercial-Partajare în condiții identice (CC BY-NC-SA)
+  et: Creative Commons, Autorile viitamine-Mitteäriline-Jaga samadel tingimustel (CC BY-NC-SA)
+  lv: Creative Commons, Attiecinājums-Nekomerciāli-Dalīties līdzīgi (CC BY-NC-SA)
+  lt: Creative Commons, Priskyrimas-Nekomercinis-Dalintis panašiai (CC BY-NC-SA)
+  sv: Creative Commons, Erkännande-IckeKommersiell-DelaLika (CC BY-NC-SA)
+  sk: Creative Commons, Uvedenie autora-Nekomerčné použitie-Rovnaké podmienky (CC BY-NC-SA)
+  hu: Creative Commons, Nevezd meg!-Ne add el!-Így add tovább! (CC BY-NC-SA)
+  el: Creative Commons, Αναφορά Δημιουργού-Μη Εμπορική Χρήση-Παρόμοια Διανομή (CC BY-NC-SA)
+  ga: Creative Commons, Luaigh an tÚdar-Neamhthráchtála-Comhroinn ar an gCéanna (CC BY-NC-SA)
+  he: Creative Commons, ייחוס-לא מסחרי-שיתוף זהה (CC BY-NC-SA)
+
+label_cc_by_nc_nd:
+  en: Creative Commons, Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND)
+  nl: Creative Commons, Naamsvermelding-NietCommercieel-GeenAfgeleideWerken (CC BY-NC-ND)
+  fr: Creative Commons, Attribution-Pas d’utilisation commerciale-Pas de modification (CC BY-NC-ND)
+  de: Creative Commons, Namensnennung-Nicht kommerziell-Keine Bearbeitungen (CC BY-NC-ND)
+  it: Creative Commons, Attribuzione-Non commerciale-Non opere derivate (CC BY-NC-ND)
+  es: Creative Commons, Atribución-NoComercial-SinDerivadas (CC BY-NC-ND)
+  pt: Creative Commons, Atribuição-NãoComercial-SemDerivações (CC BY-NC-ND)
+  pl: Creative Commons, Uznanie autorstwa-Użycie niekomercyjne-Bez utworów zależnych (CC BY-NC-ND)
+  fi: Creative Commons, Nimeä-Ei kaupallinen-Ei muutoksia (CC BY-NC-ND)
+  hr: Creative Commons, Imenovanje-Nekomercijalno-Bez prerada (CC BY-NC-ND)
+  cs: Creative Commons, Uveďte autora-Neužívejte komerčně-Bez odvozených děl (CC BY-NC-ND)
+  da: Creative Commons, Navngivelse-Ikke-kommerciel-Ingen bearbejdninger (CC BY-NC-ND)
+  mt: Creative Commons, Attribuzzjoni-Mhux kummerċjali-Ebda derivattivi (CC BY-NC-ND)
+  sl: Creative Commons, Priznanje avtorstva-Nekomercialno-Brez predelav (CC BY-NC-ND)
+  bg: Creative Commons, Признание на авторството-Некомерсиално-Без производни (CC BY-NC-ND)
+  ro: Creative Commons, Atribuire-Necomercial-Fără modificări (CC BY-NC-ND)
+  et: Creative Commons, Autorile viitamine-Mitteäriline-Tuletisi pole (CC BY-NC-ND)
+  lv: Creative Commons, Attiecinājums-Nekomerciāli-Bez atvasinājumiem (CC BY-NC-ND)
+  lt: Creative Commons, Priskyrimas-Nekomercinis-Be išvestinių kūrinių (CC BY-NC-ND)
+  sv: Creative Commons, Erkännande-IckeKommersiell-IngaBearbetningar (CC BY-NC-ND)
+  sk: Creative Commons, Uvedenie autora-Nekomerčné použitie-Bez odvodených diel (CC BY-NC-ND)
+  hu: Creative Commons, Nevezd meg!-Ne add el!-Ne változtasd! (CC BY-NC-ND)
+  el: Creative Commons, Αναφορά Δημιουργού-Μη Εμπορική Χρήση-Χωρίς Παράγωγα Έργα (CC BY-NC-ND)
+  ga: Creative Commons, Luaigh an tÚdar-Neamhthráchtála-Gan Díorthaigh (CC BY-NC-ND)
+  he: Creative Commons, ייחוס-לא מסחרי-ללא נגזרות (CC BY-NC-ND)
+
 label_select_all_imp:
   en: Select all
   nl: Selecteer alles
