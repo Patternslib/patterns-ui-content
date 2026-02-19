@@ -1,3 +1,27 @@
+label_copyright_all_rights_reserved:
+    en: Copyright, all rights reserved
+    nl: Copyright, alle rechten voorbehouden
+    fr: Copyright, tous droits réservés
+    de: Copyright, alle Rechte vorbehalten
+    it: Copyright, tutti i diritti riservati
+    es: Copyright, todos los derechos reservados
+    pt: Copyright, todos os direitos reservados
+    pl: Copyright, wszelkie prawa zastrzeżone
+    fi: Copyright, kaikki oikeudet pidätetään
+    hr: Copyright, sva prava pridržana
+    cs: Copyright, všechna práva vyhrazena
+    da: Copyright, alle rettigheder forbeholdes
+    mt: Copyright, dawk id-drittijiet riservati kollha
+    sl: Copyright, vse pravice pridržane
+    bg: Copyright, всички права запазени
+    ro: Copyright, toate drepturile rezervate
+    et: Copyright, kõik õigused kaitstud
+    lv: Copyright, visas tiesības aizsargātas
+    lt: Copyright, visos teisių saugomos teisės
+    sv: Copyright, alla rättigheter förbehållna
+    sk: Copyright, všetky práva vyhradené
+    hu: Copyright, minden jog fenntartva
+
 label_public_domain:
   en: Public domain
   nl: Publiek domein
