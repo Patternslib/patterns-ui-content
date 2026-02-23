@@ -1,3 +1,51 @@
+label_follow_imp:
+  en: Follow
+  nl: Volg
+  fr: Suivre
+  de: Folgen
+  it: Seguire
+  es: Seguir
+  pt: Seguir
+  pl: Obserwuj
+  fi: Seuraa
+  hr: Pratiši
+  cs: Sledovat
+  da: Følg
+  mt: Segwi
+  sl: Sledi
+  bg: Следвай
+  ro: Urmărește
+  et: Jälgi
+  lv: Sekot
+  lt: Sekti
+  sv: Följ
+  sk: Sledovat
+  hu: Követés
+
+label_search_imp:
+  en: Search
+  nl: Zoek
+  fr: Rechercher
+  de: Suchen
+  it: Cerca
+  es: Buscar
+  pt: Pesquisar
+  pl: Szukaj
+  fi: Haku
+  hr: Pretraži
+  cs: Hledat
+  da: Søg
+  mt: Fittex
+  sl: Iskanje
+  bg: Търсене
+  ro: Căutare
+  et: Otsing
+  lv: Meklēt
+  lt: Paieška
+  sv: Sök
+  sk: Hledat
+  hu: Keresés
+
 label_copyright_all_rights_reserved:
     en: Copyright, all rights reserved
     nl: Copyright, alle rechten voorbehouden
