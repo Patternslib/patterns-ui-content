@@ -1,3 +1,30 @@
+label_help:
+  en: Help
+  nl: Hulp
+  fr: Aide
+  de: Hilfe
+  it: Aiuto
+  es: Ayuda
+  pt: Ajuda
+  pl: Pomoc
+  fi: Apua
+  hr: Pomoć
+  cs: Nápověda
+  da: Hjælp
+  mt: Għajnuna
+  sl: Pomoč
+  bg: Помощ
+  ro: Ajutor
+  et: Abi
+  lv: Palīdzība
+  lt: Pagalba
+  sv: Hjälp
+  sk: Pomoc
+  hu: Segítség
+  el: Βοήθεια
+  ga: Cabhair
+  he: עזרה  
+
 label_select_all:
   en: Select all
   nl: Alles selecteren
