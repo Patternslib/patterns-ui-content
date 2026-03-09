@@ -97,6 +97,30 @@ label_follow_imp:
   sk: Sledovat
   hu: Követés
 
+label_search:
+  en: Search
+  nl: Zoeken
+  fr: Rechercher
+  de: Suchen
+  it: Cerca
+  es: Buscar
+  pt: Pesquisar
+  pl: Szukaj
+  fi: Haku
+  hr: Pretraži
+  cs: Hledat
+  da: Søg
+  mt: Fittex
+  sl: Iskanje
+  bg: Търсене
+  ro: Căutare
+  et: Otsing
+  lv: Meklēt
+  lt: Paieška
+  sv: Sök
+  sk: Hledat
+  hu: Keresés
+
 label_search_imp:
   en: Search
   nl: Zoek
