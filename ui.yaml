@@ -1,3 +1,57 @@
+label_toggle_sidebar_size:
+  en: Toggle sidebar size
+  nl: Zijbalkgrootte wisselen
+  fr: Basculer la taille de la barre latérale
+  de: Größe der Seitenleiste umschalten
+  it: Cambia dimensione della barra laterale
+  es: Cambiar el tamaño de la barra lateral
+  pt: Alternar tamanho da barra lateral
+  pl: Przełącz rozmiar paska bocznego
+  fi: Vaihda sivupalkin kokoa
+  hr: Promijeni veličinu bočne trake
+  cs: Přepnout velikost postranního panelu
+  da: Skift størrelse på sidepanelet
+  mt: Ibdel id-daqs tal-barra tal-ġenb
+  sl: Preklopi velikost stranske vrstice
+  bg: Превключване на размера на страничната лента
+  ro: Comută dimensiunea barei laterale
+  et: Muuda külgriba suurust
+  lv: Pārslēgt sānjoslas izmēru
+  lt: Keisti šoninės juostos dydį
+  sv: Växla storlek på sidofältet
+  sk: Prepnúť veľkosť bočného panela
+  hu: Oldalsáv méretének váltása
+  el: Εναλλαγή μεγέθους πλευρικής γραμμής
+  ga: Athraigh méid an bharra taoibh
+  he: החלף את גודל סרגל הצד
+
+label_toggle_sidebar_size_imp:
+  en: Toggle sidebar size
+  nl: Wissel zijbalkgrootte
+  fr: Basculer la taille de la barre latérale
+  de: Größe der Seitenleiste umschalten
+  it: Cambia dimensione della barra laterale
+  es: Cambiar el tamaño de la barra lateral
+  pt: Alternar tamanho da barra lateral
+  pl: Przełącz rozmiar paska bocznego
+  fi: Vaihda sivupalkin kokoa
+  hr: Promijeni veličinu bočne trake
+  cs: Přepnout velikost postranního panelu
+  da: Skift størrelse på sidepanelet
+  mt: Ibdel id-daqs tal-barra tal-ġenb
+  sl: Preklopi velikost stranske vrstice
+  bg: Превключване на размера на страничната лента
+  ro: Comută dimensiunea barei laterale
+  et: Muuda külgriba suurust
+  lv: Pārslēgt sānjoslas izmēru
+  lt: Keisti šoninės juostos dydį
+  sv: Växla storlek på sidofältet
+  sk: Prepnúť veľkosť bočného panela
+  hu: Oldalsáv méretének váltása
+  el: Εναλλαγή μεγέθους πλευρικής γραμμής
+  ga: Athraigh méid an bharra taoibh
+  he: החלף את גודל סרגל הצד
+
 label_help:
   en: Help
   nl: Hulp
