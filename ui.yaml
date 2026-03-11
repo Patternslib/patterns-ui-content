@@ -1,3 +1,27 @@
+label_grouping:
+  en: Grouping
+  nl: Groepering
+  fr: Regroupement
+  de: Gruppierung
+  it: Raggruppamento
+  es: Agrupación
+  pt: Agrupamento
+  pl: Grupowanie
+  fi: Ryhmittely
+  hr: Grupiranje
+  cs: Skupiny
+  da: Gruppering
+  mt: Gruppar
+  sl: Grupiranje
+  bg: Групиране
+  ro: Grupare
+  et: Rühmitamine
+  lv: Grupēšana
+  lt: Grupavimas
+  sv: Gruppering
+  sk: Skupiny
+  hu: Csoportosítás
+
 label_toggle_sidebar_size:
   en: Toggle sidebar size
   nl: Zijbalkgrootte wisselen
@@ -600,6 +624,33 @@ label_back:
   el: Πίσω
   ga: Ar ais
   he: חזרה
+
+label_apply_filters:
+  en: Apply filters
+  nl: Filters toepassen
+  fr: Appliquer les filtres
+  de: Filter anwenden
+  it: Applica filtri
+  es: Aplicar filtros
+  pt: Aplicar filtros
+  pl: Zastosuj filtry
+  fi: Käytä suodattimia
+  hr: Primijeni filtre
+  cs: Použít filtry
+  da: Anvend filtre
+  mt: Applika l-filtri
+  sl: Uporabi filtre
+  bg: Приложи филтрите
+  ro: Aplică filtrele
+  et: Rakenda filtrid
+  lv: Lietot filtrus
+  lt: Taikyti filtrus
+  sv: Använd filter
+  sk: Použít filtry
+  hu: Szűrők alkalmazása
+  el: Εφαρμογή φίλτρων
+  ga: Cuir scagairí i bhfeidhm
+  he: החלף את גודל סרגל הצד
 
 label_filters:
   en: Filters
