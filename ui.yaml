@@ -1,3 +1,30 @@
+label_toggle_sidebar:
+  en: Toggle sidebar
+  nl: Wissel zijbalk
+  fr: Basculer la barre latérale
+  de: Seitenleiste wechseln
+  it: Cambia barra laterale
+  es: Cambiar barra lateral
+  pt: Alternar barra lateral
+  pl: Przełącz pasek boczny
+  fi: Vaihda sivupalkki
+  hr: Promijeni bočnu traku
+  cs: Přepnout postranní panel
+  da: Skift sidepanel
+  mt: Ibdel il-barra tal-ġenb
+  sl: Preklopi stransko vrstico
+  bg: Превключване на страничната лента
+  ro: Comută bara laterală
+  et: Muuda külgriba
+  lv: Pārslēgt sānjoslu
+  lt: Keisti šoninės juostos rodymą
+  sv: Växla sidofältet
+  sk: Prepnúť bočný panel
+  hu: Oldalsáv váltása
+  el: Εναλλαγή πλευρικής γραμμής
+  ga: Athraigh barra taoibh
+  he: החלף את סרגל הצד
+
 label_grouping:
   en: Grouping
   nl: Groepering
