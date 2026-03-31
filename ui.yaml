@@ -1,3 +1,30 @@
+label_save_and_create_another_imp:
+  en: Save and create another
+  nl: Opslaan en nog een maken
+  fr: Enregistrer et en créer un autre
+  de: Speichern und ein weiteres erstellen
+  it: Salva e crea un altro
+  es: Guardar y crear otro
+  pt: Salvar e criar outro
+  pl: Zapisz i utwórz kolejny
+  fi: Tallenna ja luo toinen
+  hr: Spremi i stvori još jedan
+  cs: Uložit a vytvořit další
+  da: Gem og opret en anden
+  mt: Issejvja u oħloq ieħor
+  sl: Shrani in ustvari še enega
+  bg: Запазване и създаване на друг
+  ro: Salvați și creați altul
+  et: Salvesta ja loo uus
+  lv: Saglabāt un izveidot citu
+  lt: Išsaugoti ir sukurti kitą
+  sv: Spara och skapa en till
+  sk: Uložit a vytvořit další
+  hu: Mentés és új létrehozása
+  el: Αποθήκευση και δημιουργία άλλου
+  ga: Sábháil agus cruthaigh ceann eile
+  he: שמור ויצר אחר
+
 label_toggle_sidebar:
   en: Toggle sidebar
   nl: Wissel zijbalk
