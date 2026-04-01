@@ -1,3 +1,30 @@
+label_publish_imp:
+  en: Publish
+  nl: Publiceer
+  fr: Publier
+  de: Veröffentlichen
+  it: Pubblica
+  es: Publicar
+  pt: Publicar
+  pl: Opublikuj
+  fi: Julkaise
+  hr: Objavi
+  cs: Publikovat
+  da: Udgiv
+  mt: Ippubblika
+  sl: Objavi
+  bg: Публикувай
+  ro: Publică
+  et: Avalda
+  lv: Publicēt
+  lt: Paskelbti
+  sv: Publicera
+  sk: Publikovat
+  hu: Közzététel
+  el: Δημοσίευση
+  ga: Foilseacháin
+  he: פרסם
+
 label_save_and_create_another_imp:
   en: Save and create another
   nl: Opslaan en nog een maken
