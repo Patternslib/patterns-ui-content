@@ -1738,6 +1738,34 @@ label_patterns_pn:
   ga: Patterns
   he: פאטרנס
 
+label_page:
+  nl: Pagina
+  en: Page
+  fr: Page
+  de: Seite
+  it: Pagina
+  es: Página
+  pt: Página
+  da: Side
+  sv: Sida
+  fi: Sivu
+  el: Σελίδα
+  lt: Puslapis
+  lv: Lappuse
+  et: Lehekülg
+  mt: Paġna
+  ga: Leathanach
+  hu: Oldal
+  pl: Strona
+  cs: Stránka
+  sk: Strana
+  sl: Stran
+  hr: Stranica
+  ro: Pagină
+  bg: Страница
+  cy: Tudalenau
+  he: דף
+
 label_pages:
   nl: Pagina's
   en: Pages
